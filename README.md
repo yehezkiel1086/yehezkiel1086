@@ -1,4 +1,4 @@
-## Hi, I am Yehezkiel Wiradhika
+# Hi, I am Yehezkiel Wiradhika
 
 - 👨‍🎓 I am a student at Institut Teknologi Sepuluh Nopember, Surabaya
 - 🌐 I love making websites and pentesting
