@@ -7,8 +7,8 @@
 
 ### Connect with me
 
-[<img align='left' src='https://findicons.com/files/icons/1979/social/50/linkedin.png' alt='linkedin' width='22px' />][linkedin]
-[<img align='left' src='https://findicons.com/files/icons/653/the_spherical/128/web.png' alt='linkedin' width='22px' />][portofolio]
+[<img align='left' src='https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1645070032~hmac=bf4e3cb826b7f1149cafde1f567add4d' alt='linkedin' width='22px' />][linkedin]
+[<img align='left' src='https://cdn-icons-png.flaticon.com/512/1231/1231223.png' alt='portofolio' width='22px' />][portofolio]
 
 [linkedin]: https://www.linkedin.com/in/yehezkiel-wiradhika/
 [portofolio]: https://portofolio-yehezkiel-wiradhika.herokuapp.com/
