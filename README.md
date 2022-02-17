@@ -1,9 +1,11 @@
-## Hi, I am Yehezkiel Wiradhika 
+## Hi, I am Yehezkiel Wiradhika
 
 - 👨‍🎓 I am a student at Institut Teknologi Sepuluh Nopember, Surabaya
 - 🌐 I love making websites and pentesting
 - 🎮 My hobby is playing video games
 - 👩🏻‍🤝‍🧑🏽 Looking forward to collaborate with you
+
+---
 
 ### Connect with me
 
@@ -12,3 +14,9 @@
 
 [linkedin]: https://www.linkedin.com/in/yehezkiel-wiradhika/
 [portofolio]: https://portofolio-yehezkiel-wiradhika.herokuapp.com/
+
+---
+
+### My Github Stats
+
+<img align='left' alt="bazoka-kaka's github stats" src='https://github-readme-stats.vercel.app/api?username=bazoka-kaka&show_icons=true&hide_border=true' />
