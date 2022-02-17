@@ -2,8 +2,8 @@
 
 - 👨‍🎓 I am a student at Institut Teknologi Sepuluh Nopember, Surabaya
 - 🌐 I love making websites and pentesting
-- 👩🏻‍🤝‍🧑🏽 I'm looking forward to collaborate with you
 - 🎮 My hobby is playing video games
+- 👩🏻‍🤝‍🧑🏽 Looking forward to collaborate with you
 
 ### Connect with me
 
