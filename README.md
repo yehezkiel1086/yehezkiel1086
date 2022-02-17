@@ -5,6 +5,8 @@
 - 🎮 My hobby is playing video games
 - 👩🏻‍🤝‍🧑🏽 Looking forward to collaborate with you
 
+<br><br>
+
 ---
 
 ### Connect with me
@@ -14,6 +16,8 @@
 
 [linkedin]: https://www.linkedin.com/in/yehezkiel-wiradhika/
 [portofolio]: https://portofolio-yehezkiel-wiradhika.herokuapp.com/
+
+<br><br>
 
 ---
 
