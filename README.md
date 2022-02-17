@@ -7,11 +7,8 @@
 
 ### My Github Stats
 
-<div width='100%' display='block'>
-  <img align='left' alt="bazoka-kaka's github stats" src='https://github-readme-stats.vercel.app/api?username=bazoka-kaka&show_icons=true&hide_border=true&count_private=true&theme=dracula' width='40%' />
-  <img align='left' alt="bazoka-kaka's github stats" src='https://github-readme-stats.vercel.app/api/top-langs/?username=bazoka-kaka&layout=compact&theme=dracula&hide_border=true&langs_count=8' width='40%' />
-</div>
-<br /><br /><br /><br />
+  <img align='left' alt="bazoka-kaka's github stats" src='https://github-readme-stats.vercel.app/api?username=bazoka-kaka&show_icons=true&hide_border=true&count_private=true&theme=dracula' width='50%' />
+  <img align='right' alt="bazoka-kaka's github stats" src='https://github-readme-stats.vercel.app/api/top-langs/?username=bazoka-kaka&layout=compact&theme=dracula&hide_border=true&langs_count=8' width='50%' />
 
 ### Connect with me
 
