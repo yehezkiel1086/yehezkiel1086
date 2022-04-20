@@ -1,6 +1,6 @@
 # Hi, I am Yehezkiel Wiradhika
 
-- 👨‍🎓 I am an Informatics student at Institut Teknologi Sepuluh Nopember, Surabaya
+- 👨‍🎓 Informatics student at Institut Teknologi Sepuluh Nopember, Surabaya
 - 🌐 Love making softwares and pentesting
 - 🎮 Love playing video games and watching movies
 - 👩🏻‍🤝‍🧑🏽 Looking forward to collaborate with you
