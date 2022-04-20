@@ -1,8 +1,8 @@
 # Hi, I am Yehezkiel Wiradhika
 
 - 👨‍🎓 I am an Informatics student at Institut Teknologi Sepuluh Nopember, Surabaya
-- 🌐 I love making websites and pentesting
-- 🎮 My hobby is playing video games and watching movies
+- 🌐 Love making softwares and pentesting
+- 🎮 Love playing video games and watching movies
 - 👩🏻‍🤝‍🧑🏽 Looking forward to collaborate with you
 
 ### My Github Stats
