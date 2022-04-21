@@ -1,4 +1,4 @@
-# Hi, I am Yehezkiel Wiradhika
+# Hi, you can call me Hezki
 
 - 👨‍🎓 Informatics student at Institut Teknologi Sepuluh Nopember, Surabaya
 - 🌐 Love making softwares and pentesting
