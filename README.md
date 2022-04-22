@@ -1,4 +1,4 @@
-# Hi, you can call me Hezki
+# Hi, me am Hezki
 
 - 👨‍🎓 Informatics student at Institut Teknologi Sepuluh Nopember, Surabaya
 - 🌐 Love making softwares and pentesting
