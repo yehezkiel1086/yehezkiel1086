@@ -3,7 +3,6 @@
 - 👨‍🎓 Informatics student at Institut Teknologi Sepuluh Nopember, Surabaya
 - 🌐 Love making softwares and pentesting
 - 🎮 Love playing video games, reading books, and watching movies
-- 🌧️ Single
 - 👩🏻‍🤝‍🧑🏽 Looking forward to collaborate with you
 
 ### My Github Stats
