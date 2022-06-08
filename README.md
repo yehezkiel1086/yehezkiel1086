@@ -1,6 +1,6 @@
 # Hi, I am Hezki
 
-- 👨‍🎓 Informatics student at Institut Teknologi Sepuluh Nopember, Surabaya
+- 👨‍🎓 Informatics Engineering student at Institut Teknologi Sepuluh Nopember, Surabaya
 - 🌐 Love making software and pentesting.
 - 🎮 Love playing video games, reading books, and watching movies.
 - 👩🏻‍🤝‍🧑🏽 Looking forward to collaborate with you.
