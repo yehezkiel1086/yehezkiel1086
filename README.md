@@ -1,7 +1,7 @@
 # Hey, you can call me Hezki
 
-- 👨‍🎓 Informatics Engineering student at Institut Teknologi Sepuluh Nopember, Surabaya
-- 🌐 Working on software development and cybersecurity
+- 👨‍🎓 Informatics Engineering student at Institut Teknologi Sepuluh Nopember, Surabaya.
+- 🌐 Working on software development and cybersecurity.
 
 ### My Github Stats
 
