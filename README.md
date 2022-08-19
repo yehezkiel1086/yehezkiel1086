@@ -1,7 +1,7 @@
 # Hey, you can call me Hezki
 
 - 👨‍🎓 Informatics Engineering student at Institut Teknologi Sepuluh Nopember, Surabaya.
-- 🌐 Working on software development and cybersecurity.
+- 🌐 Working on software development and cyber security.
 
 ### My Github Stats
 
@@ -15,6 +15,3 @@
 
 [linkedin]: https://www.linkedin.com/in/yehezkiel-wiradhika/
 [portofolio]: https://portofolio-yehezkiel-wiradhika.herokuapp.com/
-
-
-<br>
