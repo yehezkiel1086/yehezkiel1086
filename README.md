@@ -1,7 +1,8 @@
 # Hey, I am Hezki
 
+- I'm from Indonesia 🇮🇩
 - 👨‍🎓 Informatics Engineering student at Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia
-- 🌐 Working on Software Engineering and Cyber Security
+- 🌐 Working on Software Engineering and Cyber Security.
 
 ### My Github Stats
 
