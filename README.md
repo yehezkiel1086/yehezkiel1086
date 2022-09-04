@@ -1,7 +1,7 @@
 # Hey, I am Hezki
 
 - 👨‍🎓 Informatics Engineering student at Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia
-- 🌐 Majoring in Software Engineering and Cyber Security.
+- 🌐 Currently interested in Software Engineering and Cyber Security.
 
 ### My Github Stats
 
