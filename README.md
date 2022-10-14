@@ -1,7 +1,7 @@
 # Hey, I am Hezki
 
 - 👨‍🎓 Informatics Engineering Student at Institut Teknologi Sepuluh Nopember (ITS), Surabaya.
-- 🌐 Currently Focusing on Backend Development and Cyber Security.
+- 🌐 Currently Focusing on Backend Engineering and Cyber Security.
 
 ### My Github Stats
 
