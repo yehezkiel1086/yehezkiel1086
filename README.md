@@ -6,11 +6,8 @@
 ### My Github Stats
 
 <img src='https://github-readme-stats.vercel.app/api?username=bazoka-kaka&show_icons=true&count_private=true&theme=dracula' />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bazoka-kaka&layout=compact&theme=dracula&langs_count=15' />
-
-### Waka Time
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<?-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bazoka-kaka&layout=compact&theme=dracula&langs_count=15' /> -->
+<figure><embed src="https://wakatime.com/share/@e08f8b14-02a9-4fc3-a997-6be14dbaff15/b5e5a379-6de1-4d40-a4a0-fb2d8862bfa2.svg"></embed></figure>
 
 ### Connect with Me
 
