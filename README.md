@@ -6,7 +6,7 @@
 ### My Github Stats
 
 <img src='https://github-readme-stats.vercel.app/api?username=bazoka-kaka&show_icons=true&count_private=true&theme=dracula' />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bazoka-kaka&layout=compact&theme=dracula&langs_count=12' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bazoka-kaka&layout=compact&theme=dracula&langs_count=15' />
 
 ### Waka Time
 <!--START_SECTION:waka-->
