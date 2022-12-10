@@ -1,4 +1,4 @@
-# Hey, I am Hezki
+# Hey, I am Hezkie
 
 - 👨‍🎓 Learning Informatics Engineering at Institut Teknologi Sepuluh Nopember (ITS), Surabaya.
 - 🌐 Focusing on Backend Development.
