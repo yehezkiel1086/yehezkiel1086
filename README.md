@@ -1,6 +1,6 @@
 # Hey, I am Hezki
 
-- 👨‍🎓 Informatics Engineering at Institut Teknologi Sepuluh Nopember (ITS), Surabaya.
+- 👨‍🎓 Informatics Institut Teknologi Sepuluh Nopember (ITS), Surabaya.
 - 🌐 Focusing on Backend Development.
 
 ### Github Stats
