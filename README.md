@@ -1,4 +1,4 @@
-# Hey, I'm Hezki
+# Hey, I'm Hezki 👋
 
 - 👨‍🎓 Informatics undergraduate student at Institut Teknologi Sepuluh Nopember (ITS), Surabaya.
 - 🌐 Currently focusing on Backend Development.
