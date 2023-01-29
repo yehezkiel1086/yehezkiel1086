@@ -5,7 +5,7 @@
 
 ### Github Stats
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 20px; align-items: start;">
   <img src='https://github-readme-stats.vercel.app/api?username=bazoka-kaka&show_icons=true&count_private=true&theme=dracula' />
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bazoka-kaka&layout=compact&theme=dracula&langs_count=15' />
 </div>
