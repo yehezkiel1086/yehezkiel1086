@@ -1,4 +1,4 @@
-# Hey, I am Hezki
+# Hey, I am Yehezkiel
 
 - 👨‍🎓 Informatics Engineering undergraduate at Institut Teknologi Sepuluh Nopember (ITS), Surabaya
 - 🌐 Currently focusing on Backend Development
