@@ -1,6 +1,6 @@
 🎓 Informatics Engineering undergraduate at ITS, Surabaya.
 <br />
-🌐 Currently focusing on Backend Development and web pentesting.
+🌐 Currently focusing on Backend Development and Web Pentesting.
 
 ### Github Stats
 
