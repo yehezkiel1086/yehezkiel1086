@@ -1,4 +1,4 @@
-🎯 Currently focusing on Backend Development and Pentesting.
+🎯 Currently focusing on Backend Development and Web Pentesting.
 
 ### Github Stats
 
