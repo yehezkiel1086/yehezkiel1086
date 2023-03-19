@@ -1,4 +1,4 @@
-🎯 Currently focusing on Web Development and Web Penetration Testing.
+🎯 Currently focusing on Backend Development and Web Penetration Testing.
 
 ### Github Stats
 
