@@ -1,4 +1,4 @@
-🎯 Currently learning Backend Development and Web Penetration Testing.
+🎯 Currently learning Backend Development and Penetration Testing.
 
 ### Github Stats
 
