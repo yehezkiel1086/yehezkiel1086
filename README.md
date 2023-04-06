@@ -1,4 +1,4 @@
-🎯 Currently focusing on Fullstack Development and Penetration Testing.
+🎯 Currently focusing on Fullstack Development.
 
 ### Github Stats
 
