@@ -1,4 +1,4 @@
-🎯 Currently focusing on Fullstack Development.
+🎯 Currently focusing on Backend Development
 
 ### Github Stats
 
