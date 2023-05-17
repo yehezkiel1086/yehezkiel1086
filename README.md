@@ -1,4 +1,5 @@
 ## Hi! I'm Hezky 👋🏻
+I'm a Software Engineer wanna be and an Informatics student at Institut Teknologi Sepuluh Nopember, Surabaya
 
 <table>
   <tbody>
