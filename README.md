@@ -31,14 +31,10 @@ I'm a Software Engineer wanna be and an Informatics student at Institut Teknolog
   <img src='https://wakatime.com/share/@e08f8b14-02a9-4fc3-a997-6be14dbaff15/901d8d76-e039-41e7-96f8-f48de02c6e18.svg' width='500' />
 </details>
 
-### Links
+### Contacts
 
-[<img align='left' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png' alt='linkedin' width='22px' />][linkedin]
-[<img align='left' src='https://cdn-icons-png.flaticon.com/512/2991/2991108.png' alt='Curiculum Vitae' width='22px' />][cv]
-[<img align='left' src='https://img.icons8.com/fluency/512/secured-letter.png' alt='Email' width='22px' />][email]
-<!-- [<img align='left' src='https://cdn-icons-png.flaticon.com/512/1006/1006669.png' alt='portofolio' width='22px' />][portofolio] -->
-
-[linkedin]: <!-- link -->
-[portofolio]: <!-- link -->
-[cv]: <!-- link -->
-[email]: <!-- link -->
+Email: yehezkielwiradhika@gmail.com
+<br>
+Discord: yehezkel_1086#4118
+<br>
+Linkedin: [linkedin.com/yehezkiel-wiradhika/](https://www.linkedin.com/in/yehezkiel-wiradhika)
