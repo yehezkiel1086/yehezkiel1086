@@ -17,7 +17,7 @@ I'm a Software Engineer wanna be and an Informatics Engineering student at Insti
     </tr>
     <tr>
       <th>DBMS</th>
-      <td>SQL, MongoDB, Mongoose</td>
+      <td>MySQL, MongoDB</td>
     </tr>
   </tbody>
 </table>
