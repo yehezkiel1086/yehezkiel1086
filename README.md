@@ -35,6 +35,6 @@ I'm a Software Engineer wanna be and an Informatics student at Institut Teknolog
 
 Email: yehezkielwiradhika@gmail.com
 <br>
-Discord: yehezkel_1086#4118
-<br>
 Linkedin: [linkedin.com/yehezkiel-wiradhika/](https://www.linkedin.com/in/yehezkiel-wiradhika)
+<br>
+Discord: yehezkel_1086#4118
