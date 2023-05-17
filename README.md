@@ -1,4 +1,4 @@
-🎯 Currently focusing on Backend Development
+## Hi! I'm Hezky 👋🏻
 <br>
 Programming Languages: Javascript, PHP, Golang, Java, C/C++, Python
 <br>
