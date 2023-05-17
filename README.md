@@ -1,12 +1,25 @@
 ## Hi! I'm Hezky 👋🏻
-<br>
-Programming Languages: Javascript, PHP, Golang, Java, C/C++, Python
-<br>
-Frontend Frameworks: ReactJS, NextJS, Tailwindcss, Bootstrap
-<br>
-Backend Frameworks: ExpressJS, Laravel
-<br>
-DBMS: SQL, MongoDB, Mongoose
+
+<table>
+  <tbody>
+    <tr>
+      <th>Programming Languages</th> 
+      <td>Javascript, PHP, Golang, Java, C/C++, Python</td>
+    </tr>
+    <tr>
+      <th>Frontend Frameworks</th>
+      <td>ReactJS, NextJS, Tailwindcss, Bootstrap</td>
+    </tr>
+    <tr>
+      <th>Backend Frameworks</th>
+      <td>ExpressJS, Laravel</td>
+    </tr>
+    <tr>
+      <th>DBMS</th>
+      <td>SQL, MongoDB, Mongoose</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Github Stats
 
