@@ -5,7 +5,7 @@ I'm a Software Engineer wanna be and an Informatics Engineering student at Insti
   <tbody>
     <tr>
       <th>Programming Languages</th> 
-      <td>Javascript, PHP, Golang, Java, C/C++, Python</td>
+      <td>Javascript, PHP, Go, Java, C/C++, Python</td>
     </tr>
     <tr>
       <th>Frontend Frameworks</th>
