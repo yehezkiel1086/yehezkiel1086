@@ -9,7 +9,7 @@ I'm an Informatics Engineering undergraduate at Institut Teknologi Sepuluh Nopem
     </tr>
     <tr>
       <th>Frontend Frameworks</th>
-      <td>ReactJS, NextJS, Tailwindcss, Bootstrap</td>
+      <td>ReactJS, React Native, NextJS, Tailwindcss, Bootstrap</td>
     </tr>
     <tr>
       <th>Backend Frameworks</th>
