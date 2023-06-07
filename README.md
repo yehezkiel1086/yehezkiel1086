@@ -1,5 +1,5 @@
 ## Hi! I'm Yehezkiel 👋🏻
-I'm an Informatics Engineering undergraduate at Institut Teknologi Sepuluh Nopember, Surabaya
+I'm an Informatics Engineering undergraduate at Institut Teknologi Sepuluh Nopember, Surabaya.
 
 <table>
   <tbody>
