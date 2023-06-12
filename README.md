@@ -37,4 +37,6 @@ Email: yehezkielwiradhika@gmail.com
 <br>
 Linkedin: [linkedin.com/yehezkiel-wiradhika/](https://www.linkedin.com/in/yehezkiel-wiradhika)
 <br>
+Twitter: [twitter.com/yehezkel_1086](https://twitter.com/yehezkel_1086)
+<br>
 Discord: yehezkel_1086#4118
