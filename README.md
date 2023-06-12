@@ -1,5 +1,5 @@
 ## Hi! I'm Yehezkiel 👋🏻
-I'm an Informatics Engineering undergraduate at Institut Teknologi Sepuluh Nopember, Surabaya. I'm a fullstack software developer who is currently interested in Backend Development
+I'm an Informatics Department undergraduate at Institut Teknologi Sepuluh Nopember, Surabaya. I'm a fullstack software developer who is currently interested in Backend Development
 
 <table>
   <tbody>
