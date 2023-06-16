@@ -1,4 +1,4 @@
-## Hi! I'm Yehezkiel 👋🏻
+## Hi! 👋🏻
 I'm an Informatics department undergraduate at Institut Teknologi Sepuluh Nopember, Surabaya. I'm interested in fullstack web development, android / iOS development, pentesting, and dev ops.
 
 <table>
