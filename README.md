@@ -1,5 +1,5 @@
 ## Hi! 👋🏻
-I'm an Informatics department undergraduate. Interested in fullstack web development, android / iOS development, pentesting, and dev ops.
+I'm an Informatics Engineering undergraduate. Interested in fullstack web development, android / iOS development, pentesting, and dev ops.
 
 <table>
   <tbody>
