@@ -1,4 +1,4 @@
-## Hi! 👋🏻
+## Hi!
 I'm an Informatics undergraduate interested in fullstack web development, android / iOS development, pentesting, and sysadmin (dev ops).
 
 <table>
