@@ -21,7 +21,7 @@ I'm an Informatics undergraduate interested in fullstack web development, androi
     </tr>
     <tr>
       <th>ORMs</th>
-      <td>Mongoose</td>
+      <td>Mongoose, Eloquent</td>
     </tr>
   </tbody>
 </table>
