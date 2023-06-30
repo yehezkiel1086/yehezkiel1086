@@ -19,6 +19,10 @@ I'm an Informatics undergraduate interested in fullstack web development, androi
       <th>DBMS</th>
       <td>MySQL, PostgreSQL, MongoDB</td>
     </tr>
+    <tr>
+      <th>ORMs</th>
+      <td>Mongoose</td>
+    </tr>
   </tbody>
 </table>
 
