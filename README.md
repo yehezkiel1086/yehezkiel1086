@@ -9,7 +9,11 @@ I'm an Informatics undergraduate interested in fullstack web development, androi
     </tr>
     <tr>
       <th>Frontend Frameworks</th>
-      <td>ReactJS, React Native, NextJS, Tailwindcss, Bootstrap</td>
+      <td>Reactjs, React Native, Nextjs</td>
+    </tr>
+    <tr>
+      <th>CSS Frameworks</th>
+      <td>Tailwindcss, Bootstrap</td>
     </tr>
     <tr>
       <th>Backend Frameworks</th>
