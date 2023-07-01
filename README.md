@@ -17,7 +17,7 @@ I'm an Informatics undergraduate interested in fullstack web development, androi
     </tr>
     <tr>
       <th>Backend Frameworks</th>
-      <td>ExpressJS, Laravel</td>
+      <td>Expressjs, Laravel</td>
     </tr>
     <tr>
       <th>DBMS</th>
