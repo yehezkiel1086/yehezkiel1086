@@ -47,7 +47,7 @@ I'm an Informatics undergraduate. Interested in fullstack web development, andro
 
 Email: yehezkielwiradhika@gmail.com
 <br>
-Linkedin: [linkedin.com/yehezkiel-wiradhika/](https://www.linkedin.com/in/yehezkiel-wiradhika)
+<!-- Linkedin: [linkedin.com/yehezkiel-wiradhika/](https://www.linkedin.com/in/yehezkiel-wiradhika) -->
 <br>
 Twitter: [twitter.com/yehezkel_1086](https://twitter.com/yehezkel_1086)
 <br>
