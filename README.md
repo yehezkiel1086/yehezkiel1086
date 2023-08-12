@@ -1,5 +1,5 @@
 ## Hi!
-I'm an Informatics undergraduate. Interested in fullstack web development, android / iOS development, pentesting, and sysadmin.
+I'm an Informatics Engineering undergraduate student. Interested in fullstack web development, android / iOS development, pentesting, and sysadmin.
 
 <table>
   <tbody>
