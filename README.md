@@ -45,9 +45,4 @@ I'm an Informatics Engineering undergraduate student. Interested in fullstack de
 
 ### Contacts
 
-Email: yehezkielwiradhika@gmail.com
-<br>
 Discord: yehezkel_1086#4118
-<!-- <br> -->
-<!-- Linkedin: [linkedin.com/yehezkiel-wiradhika/](https://www.linkedin.com/in/yehezkiel-wiradhika) -->
-
