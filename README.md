@@ -1,4 +1,4 @@
-## Hi!
+## Hi! 👋
 I'm an Informatics Engineering undergraduate student. Interested in fullstack development, android / iOS development, pentesting, and sysadmin.
 
 <table>
