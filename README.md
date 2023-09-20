@@ -30,7 +30,9 @@ I'm an Informatics Engineering undergraduate student. Interested in fullstack de
   </tbody>
 </table>
 
-<figure><embed src="https://wakatime.com/share/@e08f8b14-02a9-4fc3-a997-6be14dbaff15/4d9e12b2-a20f-40ef-b02f-ae61275d2cc2.svg"></embed></figure>
+<!-- <figure><embed src="https://wakatime.com/share/@e08f8b14-02a9-4fc3-a997-6be14dbaff15/4d9e12b2-a20f-40ef-b02f-ae61275d2cc2.svg"></embed></figure> -->
+
+<img src="https://wakatime.com/share/@e08f8b14-02a9-4fc3-a997-6be14dbaff15/4d9e12b2-a20f-40ef-b02f-ae61275d2cc2.svg" width="400" />
 
 <!-- ### Github Stats -->
 <!--
