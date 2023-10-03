@@ -1,5 +1,5 @@
 ## Hi! 👋
-I'm an Informatics Engineering undergraduate. Interested in fullstack development, pentesting, and DevSecOps.
+I'm an Informatics Engineering undergraduate. Interested in Fullstack Web Development, Cyber Security, CTF, and DevSecOps.
 
 <table>
   <tbody>
