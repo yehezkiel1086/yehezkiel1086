@@ -9,7 +9,7 @@ I'm an Informatics Engineering undergraduate. Interested in Fullstack Web Develo
     </tr>
     <tr>
       <th>Frontend Frameworks</th>
-      <td>Reactjs, React Native, Nextjs</td>
+      <td>Reactjs, Nextjs</td>
     </tr>
     <tr>
       <th>CSS Frameworks</th>
@@ -20,12 +20,8 @@ I'm an Informatics Engineering undergraduate. Interested in Fullstack Web Develo
       <td>Expressjs, Laravel</td>
     </tr>
     <tr>
-      <th>DBMS</th>
+      <th>DBMSs</th>
       <td>MySQL, PostgreSQL, MongoDB</td>
-    </tr>
-    <tr>
-      <th>ORMs</th>
-      <td>Mongoose, Eloquent</td>
     </tr>
   </tbody>
 </table>
