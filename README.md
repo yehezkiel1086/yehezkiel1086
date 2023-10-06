@@ -1,4 +1,4 @@
-Informatics Engineering undergraduate. Interested in Fullstack Web Development, Cyber Security, and DevSecOps.
+Informatics Engineering. Fullstack Web Development, Cyber Security, and DevSecOps.
 
 <table>
   <tbody>
