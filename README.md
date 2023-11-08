@@ -1,4 +1,4 @@
-Software Development, Cyber Security, and DevSecOps.
+This account is all about Software Development, Cyber Security, and DevSecOps.
 
 <table>
   <tbody>
