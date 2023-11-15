@@ -1,4 +1,4 @@
-Fullstack Software Development, Cyber Security, and DevSecOps.
+Software Development, Cyber Security, and DevSecOps.
 
 <table>
   <tbody>
