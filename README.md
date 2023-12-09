@@ -46,3 +46,4 @@ Software Development, Cyber Security, and DevSecOps.
 ### Contacts
 
 Discord: yehezkel_1086#4118
+Line: kaka_8200
