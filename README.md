@@ -1,4 +1,4 @@
-All about Software Development, Cyber Security, Networking and DevSecOps.
+Software Development, Cyber Security, Networking and DevSecOps.
 
 <table>
   <tbody>
