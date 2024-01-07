@@ -1,4 +1,4 @@
-Software Development, Cyber Security, Computer Networking and DevSecOps.
+Software Development, Cyber Security, and Computer Networking.
 
 <table>
   <tbody>
