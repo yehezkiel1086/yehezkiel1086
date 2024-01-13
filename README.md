@@ -4,7 +4,7 @@ Software Development, Cyber Security, and Computer Networking.
   <tbody>
     <tr>
       <th>Programming Languages</th> 
-      <td>Javascript, PHP, Go, Java, C/C++, Python</td>
+      <td>Javascript, PHP, Go, Typescript, Java, C/C++, Python</td>
     </tr>
     <tr>
       <th>Frontend Frameworks</th>
