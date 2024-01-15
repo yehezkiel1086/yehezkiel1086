@@ -1,4 +1,4 @@
-Software Development, Cyber Security, and Computer Networking.
+Fullstack Software Development, Cyber Security, and Computer Networking.
 
 <table>
   <tbody>
