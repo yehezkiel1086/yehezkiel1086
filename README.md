@@ -1,5 +1,7 @@
 Fullstack Software Development, Cyber Security, Computer Networking and DevSecOps.
 
+Building Apps to learn Cyber Security.
+
 <table>
   <tbody>
     <tr>
