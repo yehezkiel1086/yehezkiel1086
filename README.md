@@ -8,7 +8,7 @@ Fullstack Software Development, Cyber Security, Computer Networking and DevSecOp
     </tr>
     <tr>
       <th>Frontend Frameworks</th>
-      <td>Reactjs, Nextjs</td>
+      <td>Reactjs, Nextjs, AJAX, JQuery</td>
     </tr>
     <tr>
       <th>CSS Frameworks</th>
