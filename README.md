@@ -1,6 +1,6 @@
-Fullstack Software Development, Cyber Security, Computer Networking and DevSecOps.
+🌐 Fullstack Software Development, Cyber Security, Computer Networking and DevSecOps.
 
-Building Apps to learn Cyber Security.
+📖 Building Apps to learn Cyber Security.
 
 <table>
   <tbody>
