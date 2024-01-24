@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <th>DBMSs</th>
-      <td>MySQL, PostgreSQL, MongoDB</td>
+      <td>MySQL, PostgreSQL, MongoDB, Firebase</td>
     </tr>
   </tbody>
 </table>
