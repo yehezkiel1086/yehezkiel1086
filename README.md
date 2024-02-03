@@ -11,16 +11,12 @@
       <td>Javascript, PHP, Go, Typescript, C/C++, Python</td>
     </tr>
     <tr>
+      <th>Backend Frameworks</th>
+      <td>Expressjs, Laravel, Django</td>
+    </tr>
+    <tr>
       <th>Frontend Frameworks</th>
       <td>Reactjs, Nextjs, AJAX, JQuery</td>
-    </tr>
-    <tr>
-      <th>CSS Frameworks</th>
-      <td>Tailwindcss, Bootstrap</td>
-    </tr>
-    <tr>
-      <th>Backend Frameworks</th>
-      <td>Expressjs, Laravel</td>
     </tr>
     <tr>
       <th>DBMSs</th>
