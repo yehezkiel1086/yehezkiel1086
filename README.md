@@ -12,11 +12,11 @@
     </tr>
     <tr>
       <th>Backend Frameworks</th>
-      <td>Flask, Django, Expressjs, Laravel</td>
+      <td>Django, Expressjs, Laravel</td>
     </tr>
     <tr>
       <th>Frontend Frameworks</th>
-      <td>Reactjs, Nextjs, AJAX, JQuery</td>
+      <td>Reactjs, Nextjs, JQuery + AJAX</td>
     </tr>
     <tr>
       <th>DBMSs</th>
