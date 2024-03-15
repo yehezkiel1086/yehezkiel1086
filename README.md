@@ -6,7 +6,7 @@
   <tbody>
     <tr>
       <th>Programming Languages</th> 
-      <td>Javascript, PHP, Go, Typescript, C/C++, Python</td>
+      <td>Python, Go, C/C++ Typescript, C/C++, Javascript, PHP</td>
     </tr>
     <tr>
       <th>Backend Frameworks</th>
