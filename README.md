@@ -10,7 +10,7 @@
     </tr>
     <tr>
       <th>Backend Frameworks</th>
-      <td>Django, Expressjs, Laravel</td>
+      <td>Django, Flask, Expressjs, Laravel</td>
     </tr>
     <tr>
       <th>Frontend Frameworks</th>
