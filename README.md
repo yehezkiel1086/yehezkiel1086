@@ -1,6 +1,6 @@
 # Agent 1086, How Can I Help You?
 
-🌐 Cyber Security, Computer Networking, Machine Learning, Software Development and DevSecOps.
+🌐 Cyber Security, Computer Networking, AI, Software Development and DevSecOps.
 
 <table>
   <tbody>
