@@ -1,6 +1,6 @@
 # Agent 1086, How Can I Help You?
 
-💻 Cyber Security Professional wannabe
+💻 Cyber Security Professional Wannabe.
 
 🌐 Cyber Security, Computer Networking, AI, Software Development and DevSecOps.
 
