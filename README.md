@@ -1,6 +1,6 @@
 # Agent 1086, How Can I Help You?
 
-💻 Currently mostly working on Cyber Security.
+💻 Cyber Security Professional Wannabe.
 
 🌐 Cyber Security, Computer Networking, AI, Fullstack Software Development, Blockchain, DevSecOps.
 
