@@ -2,7 +2,7 @@
 
 💻 Cyber Security Professional Wannabe.
 
-🌐 Cyber Security, Computer Networking, AI, Fullstack Software Development, Blockchain, DevSecOps.
+🌐 Cyber Security, Computer Networking, AI, Fullstack Dev, DevSecOps.
 
 <table>
   <tbody>
