@@ -1,8 +1,8 @@
 # Agent 1086, How Can I Help You?
 
-💻 Cyber Security Professional Wannabe.
+🌐 Cyber Security Professional Wannabe.
 
-🌐 Cyber Security, Computer Networking, AI, Fullstack Dev, DevSecOps.
+💻 Interested in Cyber Security, Computer Networking, AI, BlockChain, Fullstack Dev, DevSecOps.
 
 <table>
   <tbody>
