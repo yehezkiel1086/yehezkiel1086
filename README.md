@@ -2,7 +2,7 @@
 
 🌐 Cyber Security Professional Wannabe.
 
-💻 Interested in Cyber Security, Computer Networking, AI, BlockChain, Fullstack Dev, DevSecOps.
+💻 Also interested in Computer Networking, AI, BlockChain, Fullstack Dev, DevSecOps.
 
 <table>
   <tbody>
