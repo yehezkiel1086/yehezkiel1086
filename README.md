@@ -12,15 +12,15 @@
     </tr>
     <tr>
       <th>Backend Frameworks</th>
-      <td>Django, Flask, Expressjs, Laravel</td>
+      <td>Django, Expressjs, Laravel</td>
     </tr>
     <tr>
       <th>Frontend Frameworks</th>
-      <td>Reactjs, Nextjs, JQuery + AJAX</td>
+      <td>Reactjs, Nextjs, JQuery, AJAX</td>
     </tr>
     <tr>
       <th>DBMSs</th>
-      <td>MySQL, PostgreSQL, MongoDB, Firebase</td>
+      <td>MySQL, PostgreSQL, MongoDB, Mongoose, Firebase</td>
     </tr>
   </tbody>
 </table>
