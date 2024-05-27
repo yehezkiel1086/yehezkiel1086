@@ -16,7 +16,7 @@
     </tr>
     <tr>
       <th>Frontend Frameworks</th>
-      <td>Reactjs, Nextjs, JQuery, AJAX</td>
+      <td>Nextjs, JQuery + AJAX</td>
     </tr>
     <tr>
       <th>DBMSs</th>
