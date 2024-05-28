@@ -8,7 +8,7 @@
   <tbody>
     <tr>
       <th>Scripting Languages</th> 
-      <td>Python, Go, C/C++ Typescript, Javascript, PHP</td>
+      <td>Python, Go, C/C++, Javascript + Typescript, PHP</td>
     </tr>
     <tr>
       <th>Backend Frameworks</th>
