@@ -2,7 +2,7 @@
 
 ✨ Cyber Security Professional Wannabe
 
-🌐 Interested in Software & Network security, Malware Development, Fullstack Dev, Computer Networking, Machine Learning, and DevSecOps
+🌐 Interested in Software & Network security, Fullstack Dev, Computer Networking, Machine Learning, and DevSecOps
 
 <table>
   <tbody>
