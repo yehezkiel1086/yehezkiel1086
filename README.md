@@ -4,7 +4,7 @@
 
 🌐 Interested in Software & Network security, Fullstack Dev, Computer Networking, Machine Learning, and DevSecOps
 
-💻 Doing at least 3 CTF problems in a day
+💻 Doing at least 3 CTF problems a day
 
 <table>
   <tbody>
