@@ -1,10 +1,8 @@
-# Agent 1086, How Can I Help You?
+Cyber Security Enthusiast
 
-✨ Cyber Security Enthusiast
+Interested in Software & Network security, Fullstack Dev, Computer Networking, Machine Learning, and DevSecOps
 
-🌐 Interested in Software & Network security, Fullstack Dev, Computer Networking, Machine Learning, and DevSecOps
-
-💻 Doing at least 3 CTF problems a day
+Doing at least 3 CTF problems a day
 
 <table>
   <tbody>
