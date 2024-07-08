@@ -10,7 +10,7 @@ Doing at least 3 CTF problems a day
   <tbody>
     <tr>
       <th>Scripting Languages</th> 
-      <td>Python, Go, C/C++, Typescript, PHP</td>
+      <td>Python, Go, C/C++, Typescript, PHP, Bash</td>
     </tr>
     <tr>
       <th>Backend Frameworks</th>
