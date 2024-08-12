@@ -4,7 +4,7 @@ Cyber Security Enthusiast
 
 Interested in Cyber Security, Fullstack Dev, Computer Networking, Machine Learning, and DevSecOps
 
-Doing at least 3 CTF problems a day
+Doing at least 3 CTF challenges a day
 
 <table>
   <tbody>
