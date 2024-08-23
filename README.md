@@ -1,6 +1,8 @@
 # Agent 1086, What's your emergency?
 
-Software Developer, Cyber Security & Machine Learning Enthusiast
+Software Developer
+
+Cyber Security & Machine Learning Enthusiast
 
 Interested in Cyber Security, Fullstack Dev, Computer Networking, Machine Learning, and DevSecOps
 
