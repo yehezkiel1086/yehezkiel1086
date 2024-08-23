@@ -1,6 +1,6 @@
 # Agent 1086, What's your emergency?
 
-Software Developer
+Fullstack Software Developer
 
 Cyber Security & Machine Learning Enthusiast
 
