@@ -1,12 +1,12 @@
 # Agent 1086, What's your emergency?
 
-Fullstack Software Developer
+🏢 Pentester & Fullstack Software Developer
 
-Cyber Security & Machine Learning Enthusiast
+📖 Cyber Security & Machine Learning Enthusiast
 
-Interested in Cyber Security, Fullstack Dev, Computer Networking, Machine Learning, and DevSecOps
+🌐 Interested in Cyber Security, Fullstack Dev, Computer Networking, Machine Learning, and DevSecOps
 
-Doing at least 3 CTF challenges a day
+🚩 Doing at least 3 CTF challenges a day
 
 <table>
   <tbody>
