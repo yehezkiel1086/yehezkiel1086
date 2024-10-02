@@ -2,11 +2,7 @@
 
 🏢 Pentester & Fullstack Software Developer
 
-📖 Cyber Security & Machine Learning Enthusiast
-
-🌐 Interested in Cyber Security, Fullstack Dev, Computer Networking, Machine Learning, and DevSecOps
-
-🚩 Doing at least 3 CTF challenges a day
+🌐 Contents About SofSec, NetSec, Forensics, Cryptography, PWN, Fullstack Dev, Cloud Computing, Computer Networking, Machine Learning, and DevSecOps
 
 <table>
   <tbody>
