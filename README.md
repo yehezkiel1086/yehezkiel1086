@@ -2,7 +2,7 @@
 
 🏢 Pentester & Fullstack Software Developer
 
-🌐 Contents About SofSec, NetSec, Forensics, Cryptography, PWN, Fullstack Dev, Cloud Computing, Computer Networking, Machine Learning, and DevSecOps
+🌐 Interested in SofSec, NetSec, Forensics, Cryptography, PWN, Fullstack Dev, Cloud Computing, Computer Networking, Machine Learning, and DevSecOps
 
 <table>
   <tbody>
