@@ -4,6 +4,8 @@
 
 🌐 Interested in Pentesting, SofSec, NetSec, Forensics, Cryptography, PWN, Fullstack Dev, Cloud Computing, Computer Networking, Machine Learning, and DevSecOps
 
+🧐 Report any cyber criminal investigations & I'll help
+
 <table>
   <tbody>
     <tr>
