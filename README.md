@@ -11,16 +11,32 @@
       <td>Python, Go, C/C++, Typescript, PHP, Bash</td>
     </tr>
     <tr>
+      <th>Web App Pentest Tools</th>
+      <td>Burpsuite, Nikto, ZAP</td>
+    </tr>
+    <tr>
+      <th>Network Pentest Tools</th>
+      <td>NMap, Nessus, Metasploit, Wireshark</td>
+    </tr>    
+    <tr>
+      <th>Blue Team Tools</th>
+      <td>Wazuh, Snort, SonarQube</td>
+    </tr>
+    <tr>
+      <th>Malware Analysis Tools</th>
+      <td>Ghidra, JADX, IDA Pro, Virus Total</td>
+    </tr>
+    <tr>
       <th>Backend Frameworks</th>
       <td>Django, Expressjs, Gin, Laravel</td>
     </tr>
     <tr>
       <th>Frontend Frameworks</th>
-      <td>Nextjs, JQuery + AJAX</td>
+      <td>Nextjs, JQuery / AJAX</td>
     </tr>
     <tr>
       <th>DBMSs</th>
-      <td>MySQL / PostgreSQL, MongoDB + Mongoose, Firebase</td>
+      <td>MySQL / PostgreSQL, MongoDB / Mongoose, Firebase</td>
     </tr>
   </tbody>
 </table>
