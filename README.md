@@ -1,8 +1,8 @@
 # Agent 1086, What's your emergency?
 
-🏢 Pentester & Fullstack Software Developer
+🏢 Penetration Tester & Fullstack Software Developer
 
-🌐 Interested in SofSec, NetSec, Forensics, Cryptography, PWN, Fullstack Dev, Cloud Computing, Computer Networking, Machine Learning, and DevSecOps
+🌐 Interested in Pentesting, SofSec, NetSec, Forensics, Cryptography, PWN, Fullstack Dev, Cloud Computing, Computer Networking, Machine Learning, and DevSecOps
 
 <table>
   <tbody>
