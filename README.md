@@ -1,16 +1,12 @@
-## Hi there 👋
+## Agent 1086, What's your emergency?
 
-<!--
-**yehezkiel1086/yehezkiel1086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cyber Security enthusiast who is currently working as Fullstack Software Developer and Penetration Tester.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stuffs that I'm currently interested in:
+- Penetration Testing
+- Software Development
+- Software and Network Security
+- Machine Learning
+- Cryptography
+- Forensics
+- Reverse Engineering
