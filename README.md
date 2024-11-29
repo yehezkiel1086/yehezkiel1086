@@ -1,45 +1,30 @@
-# Agent 1086, What's your emergency?
+## Agent 1086, What's your emergency?
 
-🏢 Penetration Tester & Fullstack Software Developer
+A Cyber Security enthusiast who is currently working as Fullstack Software Developer and Penetration Tester.
 
-🌐 Interested in Pentesting, SofSec, NetSec, Forensics, Cryptography, PWN, Fullstack Dev, Cloud Computing, Computer Networking, Machine Learning, and DevSecOps
+### Subjects of interest
+
+- Penetration Testing
+- Software Development
+- Software and Network Security
+- Machine Learning
+- Cryptography
+- Forensics
+- Reverse Engineering
+- Malware Analysis
+
+### Feel free to reach out!
+
+- [x.com/yehezkiel_1086](https://x.com/yehezkiel_1086)
+- [linkedin.com/in/yehezkiel-wiradhika](https://www.linkedin.com/in/yehezkiel-wiradhika/)
 
 <!--
-<table>
-  <tbody>
-    <tr>
-      <th>Scripting Languages</th> 
-      <td>Python, Go, C/C++, Typescript, PHP, Bash</td>
-    </tr>
-    <tr>
-      <th>Web App Pentest Tools</th>
-      <td>Burpsuite, Nikto, ZAP</td>
-    </tr>
-    <tr>
-      <th>Network Pentest Tools</th>
-      <td>NMap, Nessus, Metasploit, Wireshark</td>
-    </tr>    
-    <tr>
-      <th>Blue Team Tools</th>
-      <td>Wazuh, Snort, SonarQube</td>
-    </tr>
-    <tr>
-      <th>Malware Analysis Tools</th>
-      <td>Ghidra, JADX, IDA Pro, Virus Total</td>
-    </tr>
-    <tr>
-      <th>Backend Frameworks</th>
-      <td>Django, Expressjs, Gin, Laravel</td>
-    </tr>
-    <tr>
-      <th>Frontend Frameworks</th>
-      <td>Nextjs, JQuery / AJAX</td>
-    </tr>
-    <tr>
-      <th>DBMSs</th>
-      <td>MySQL / PostgreSQL, MongoDB / Mongoose, Firebase</td>
-    </tr>
-  </tbody>
-</table>
+## Tech Stacks
+
+Scripting Languages: Go, Python, PHP, Bash, C/C++, Javascript/Typescript <br />
+Web Frameworks: Laravel, Django, Gin, Expressjs, JQuery / AJAX, Reactjs / Nextjs <br />
+Network Security Tools: Wazuh, Snort, NMap, Nessus, Metasploit, Wireshark <br />
+Software Security Tools: Burpsuite, Nikto, OWASP ZAP, SonarQube <br />
+Malware Analysis Tools: Ghidra, IDA Pro, JADX, VirusTotal, AnyRun<br />
+DBMSs / ORMs: PostgreSQL / MySQL, MongoDB / Mongoose, Firebase, GORM, Eloquent
 -->
-<!-- <img src="https://wakatime.com/share/@e08f8b14-02a9-4fc3-a997-6be14dbaff15/4d9e12b2-a20f-40ef-b02f-ae61275d2cc2.svg" width="400" /> -->
