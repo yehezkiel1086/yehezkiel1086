@@ -6,6 +6,7 @@ A Cyber Security enthusiast who is currently working as Fullstack Software Devel
 
 - Penetration Testing
 - Software Development
+- Cloud Computing
 - Software and Network Security
 - Machine Learning
 - Cryptography
