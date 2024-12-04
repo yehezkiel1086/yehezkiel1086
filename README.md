@@ -1,8 +1,8 @@
-## Agent 1086, What's your emergency?
+# Agent 1086, What's your emergency?
 
 A Cyber Security enthusiast who is currently working as Fullstack Software Developer and Penetration Tester.
 
-### Subjects of interest
+## Subjects of interest
 
 - Penetration Testing
 - Software Development
@@ -14,7 +14,7 @@ A Cyber Security enthusiast who is currently working as Fullstack Software Devel
 - Reverse Engineering
 - Malware Analysis
 
-### Feel free to reach out!
+## Feel free to reach out!
 
 - [x.com/yehezkiel_1086](https://x.com/yehezkiel_1086)
 - [linkedin.com/in/yehezkiel-wiradhika](https://www.linkedin.com/in/yehezkiel-wiradhika/)
