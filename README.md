@@ -2,6 +2,7 @@
 
 A Cyber Security enthusiast who is currently working as Fullstack Software Developer and Penetration Tester.
 
+<!--
 ## Subjects of interest
 
 - Penetration Testing
@@ -13,6 +14,7 @@ A Cyber Security enthusiast who is currently working as Fullstack Software Devel
 - Forensics
 - Reverse Engineering
 - Malware Analysis
+-->
 
 ## Feel free to reach out!
 
