@@ -2,6 +2,14 @@
 
 A Cyber Security enthusiast who is currently working as Fullstack Software Developer and Penetration Tester.
 
+## Currently Learning
+
+- Penetration Testing
+- Security Engineering
+- Fullstack Software Development
+- DevSecOps
+- Machine Learning
+
 <!--
 ## Subjects of interest
 
