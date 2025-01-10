@@ -1,6 +1,6 @@
 # Agent 1086, What's your emergency?
 
-A Cyber Security enthusiast who is currently working as Fullstack Software Developer and Penetration Tester.
+A Cyber Security enthusiast who is currently working as Fullstack Software Developer and Security Engineer.
 
 ## Currently Learning
 
