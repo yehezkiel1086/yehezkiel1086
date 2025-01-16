@@ -2,7 +2,7 @@
 
 A Cyber Security enthusiast who is currently working as Fullstack Software Developer and Security Engineer.
 
-## Currently Interests
+## Current Interests
 
 - Penetration Testing
 - Security Engineering
