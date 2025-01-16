@@ -10,19 +10,9 @@ A Cyber Security enthusiast who is currently working as Fullstack Software Devel
 - DevSecOps
 - Machine Learning
 
-<!--
-## Subjects of interest
+## Current Research
 
-- Penetration Testing
-- Software Development
-- Cloud Computing
-- Software and Network Security
-- Machine Learning
-- Cryptography
-- Forensics
-- Reverse Engineering
-- Malware Analysis
--->
+- Web Honeypot Data Analysis with Machine Learning and Statistical Approach
 
 ## Feel free to reach out!
 
