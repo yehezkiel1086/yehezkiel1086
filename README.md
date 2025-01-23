@@ -16,7 +16,7 @@ A Software Developer and A Cyber Security Enthusiast.
 
 ## Feel free to reach out!
 
-- [x.com/yehezkiel_1086](https://x.com/yehezkiel_1086)
+- [x.com/yehezkiel1086](https://x.com/yehezkiel1086)
 - [linkedin.com/in/yehezkiel-wiradhika](https://www.linkedin.com/in/yehezkiel-wiradhika/)
 
 <!--
