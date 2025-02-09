@@ -4,9 +4,9 @@ A Software Developer and A Cyber Security Enthusiast.
 
 ## Current Interests
 
+- Fullstack Software Development
 - Penetration Testing
 - Security Engineering
-- Fullstack Software Development
 - Cloud Computing
 - Machine Learning
 
