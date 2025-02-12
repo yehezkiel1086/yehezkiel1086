@@ -2,13 +2,25 @@
 
 A Software Developer and A Cyber Security Enthusiast.
 
-## Current Interests
+## Interests
 
 - Fullstack Software Development
 - Penetration Testing
 - Security Engineering
 - Cloud Computing
 - Machine Learning
+
+## Tech Stacks
+
+Software Development: Laravel, Gin, Django, Expressjs, Nextjs, AJAX/JQuery, Tailwindcss<br />
+Penetration Testing: Burpsuite, OWASP ZAP, SQLMap, NoSQLMap, BeEF, GraphSQL Raider, Dirsearch, Shodan, Wappalyzer, NMap, DNSRecon, Nessus, Nikto, FFuF, Hydra<br />
+Programming Languages: Python, Go, Java, Javascript/Typescript, Bash, C/C++<br />
+DB/DBMS: SQL, MongoDB / Mongoose, MySQL, PostgreSQL<br />
+SIEM: Wazuh<br />
+IDS/IPS: Snort<br />
+Honeypot(s): Snare & Tanner, Dionaea, Cowrie<br />
+Reversing / Malware Analysis: Ghidra, IDA Pro, VirusTotal, Anyrun, Triage<br />
+Code Analysis: Semgrep, SonarQube<br />
 
 ## Current Research
 
