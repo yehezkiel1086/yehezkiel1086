@@ -26,7 +26,7 @@ A Software Developer and A Cyber Security Enthusiast.
 
 ## Current Research
 
-- Web Honeypot Data Analysis with Machine Learning and Statistical Approach
+Web Honeypot Data Analysis with Machine Learning and Statistical Approach
 
 ## Feel free to reach out!
 
