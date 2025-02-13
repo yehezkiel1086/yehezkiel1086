@@ -2,6 +2,7 @@
 
 A Software Developer and A Cyber Security Enthusiast.
 
+<!--
 ## Interests
 
 - Fullstack Software Development
@@ -9,6 +10,7 @@ A Software Developer and A Cyber Security Enthusiast.
 - Security Engineering
 - Cloud Computing
 - Machine Learning
+-->
 
 ## Tech Stacks
 
