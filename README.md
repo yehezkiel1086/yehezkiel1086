@@ -5,9 +5,10 @@ A Software Developer and A Cyber Security Enthusiast.
 ## Tech Stacks
 
 **Software Development**: Laravel, Gin, Django, Expressjs, Reactjs/Nextjs, AJAX/JQuery, Tailwindcss<br />
-**Penetration Testing**: Burpsuite, OWASP ZAP, SQLMap, NoSQLMap, BeEF, GraphSQL Raider, Dirsearch, Shodan, Wappalyzer, NMap, DNSRecon, Nessus, Nikto, FFuF, Hydra<br />
-**Programming Languages**: Python, Go, PHP, Java, Javascript/Typescript, Bash, C/C++<br />
+**DevOps**: Docker, Kubernetes, Jenkins, Redis<br />
 **DB/DBMS**: SQL, MongoDB / Mongoose, MySQL, PostgreSQL<br />
+**Programming Languages**: Python, Go, PHP, Java, Javascript/Typescript, Bash, C/C++<br />
+**Penetration Testing**: Burpsuite, OWASP ZAP, SQLMap, NoSQLMap, BeEF, GraphSQL Raider, Dirsearch, Shodan, Wappalyzer, NMap, DNSRecon, Nessus, Nikto, FFuF, Hydra<br />
 **SIEM**: Wazuh<br />
 **IDS/IPS**: Snort<br />
 **Honeypot(s)**: Snare & Tanner, Dionaea, Cowrie<br />
