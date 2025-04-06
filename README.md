@@ -1,6 +1,6 @@
 # Agent 1086, What's your emergency?
 
-A Software Developer and A Cyber Security Enthusiast.
+A Fullstack Software Developer and A Cyber Security Enthusiast.
 
 ## Tech Stacks
 
