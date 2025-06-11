@@ -1,6 +1,6 @@
 # Hey, I'm Hezky!
 
-A Backend Developer and A Cyber Security Enthusiast.
+A Fullstack Developer with Focus on Backend and A Cyber Security Enthusiast.
 
 ## Tech Stacks
 
