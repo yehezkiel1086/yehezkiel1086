@@ -10,7 +10,7 @@ A Backend Developer and A Cyber Security Enthusiast.
 **DevOps**: Docker, Kubernetes, Jenkins <br />
 **Red Team**: Burpsuite, NMap, Nikto, OWASP Zap, VirusTotal, Ghidra, IDA Pro, Triage, Metasploitable <br />
 **Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare & Tanner <br />
-**Misc**: Reactjs/Nextjs, Tailwindcss, Bootstrap, AJAX/JQuery <br />
+**Frontend**: Reactjs/Nextjs, Tailwindcss, Bootstrap, AJAX/JQuery
 
 ## Research
 - Statistics and Frequent Pattern Data Analysis of Web Honeypot with Apriori Algorithm: Snare & Tanner
