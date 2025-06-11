@@ -20,6 +20,10 @@ A Backend Developer and A Cyber Security Enthusiast.
 - [x.com/yehezkiel1086](https://x.com/yehezkiel1086)
 - [linkedin.com/in/yehezkiel-wiradhika](https://www.linkedin.com/in/yehezkiel-wiradhika/)
 
+## Blogs
+- [medium.com/@yehezkiel1086](https://medium.com/@yehezkiel1086)
+- [dev.to/yehezkiel1086](https://dev.to/yehezkiel1086)
+
 ## Other Links
 - [codewars.com/users/yehezkiel1086](https://www.codewars.com/users/yehezkiel1086)
 - [leetcode.com/u/yehezkiel1086](https://leetcode.com/u/yehezkiel1086/)
