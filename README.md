@@ -4,13 +4,13 @@ A Backend Developer and A Cyber Security Enthusiast.
 
 ## Tech Stacks
 
-**Programming Language**: Go, PHP, Python, Javascript/Typescript, Bash, C/C++
-**Backend Frameworks**: Gin, Laravel, Expressjs
-**DB/DBMS**: SQL, MongoDB, PostgreSQL, MySQL, Mongoose
-**DevOps**: Docker, Kubernetes, Jenkins
-**Red Team**: Burpsuite, NMap, Nikto, OWASP Zap, VirusTotal, Ghidra, IDA Pro, Triage, Metasploitable
-**Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare & Tanner
-**Misc**: Reactjs/Nextjs, Tailwindcss, Bootstrap, AJAX/JQuery
+**Programming Language**: Go, PHP, Python, Javascript/Typescript, Bash, C/C++ <br />
+**Backend Frameworks**: Gin, Laravel, Expressjs <br />
+**DB/DBMS**: SQL, MongoDB, PostgreSQL, MySQL, Mongoose <br />
+**DevOps**: Docker, Kubernetes, Jenkins <br />
+**Red Team**: Burpsuite, NMap, Nikto, OWASP Zap, VirusTotal, Ghidra, IDA Pro, Triage, Metasploitable <br />
+**Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare & Tanner <br />
+**Misc**: Reactjs/Nextjs, Tailwindcss, Bootstrap, AJAX/JQuery <br />
 
 ## Research
 - Statistics and Frequent Pattern Data Analysis of Web Honeypot with Apriori Algorithm: Snare & Tanner
