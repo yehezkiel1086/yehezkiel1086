@@ -1,23 +1,19 @@
-# Agent 1086, What's your emergency?
+# Hey, I'm Hezky
 
-A Fullstack Software Developer and A Cyber Security Enthusiast.
+A Backend Developer and A Cyber Security Enthusiast.
 
 ## Tech Stacks
 
-**Software Development**: Laravel, Gin, Django, Expressjs, Reactjs/Nextjs, AJAX/JQuery, Tailwindcss<br />
-**DevOps**: Docker, Kubernetes, Jenkins, Redis<br />
-**DB/DBMS**: SQL, MongoDB / Mongoose, MySQL, PostgreSQL<br />
-**Programming Languages**: Python, Go, PHP, Java, Javascript/Typescript, Bash, C/C++<br />
-**Penetration Testing**: Burpsuite, OWASP ZAP, SQLMap, NoSQLMap, BeEF, GraphSQL Raider, Dirsearch, Shodan, Wappalyzer, NMap, DNSRecon, Nessus, Nikto, FFuF, Hydra<br />
-**SIEM**: Wazuh<br />
-**IDS/IPS**: Snort<br />
-**Honeypot(s)**: Snare & Tanner, Dionaea, Cowrie<br />
-**Reversing / Malware Analysis**: Ghidra, IDA Pro, VirusTotal, Anyrun, Triage<br />
-**Code Analysis**: Semgrep, SonarQube<br />
+**Programming Language**: Go, PHP, Python, Javascript/Typescript, Bash, C/C++
+**Backend Frameworks**: Gin, Laravel, Expressjs
+**DB/DBMS**: SQL, MongoDB, PostgreSQL, MySQL, Mongoose
+**DevOps**: Docker, Kubernetes, Jenkins
+**Red Team**: Burpsuite, NMap, Nikto, OWASP Zap, VirusTotal, Ghidra, IDA Pro, Triage, Metasploitable
+**Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare & Tanner
+**Misc**: Reactjs/Nextjs, Tailwindcss, Bootstrap, AJAX/JQuery
 
-## Current Research
-
-Web Honeypot Data Analysis with Machine Learning and Statistical Approach
+## Research
+- Statistics and Frequent Pattern Data Analysis of Web Honeypot with Apriori Algorithm: Snare & Tanner
 
 ## Feel free to reach out!
 
@@ -33,4 +29,17 @@ Network Security Tools: Wazuh, Snort, NMap, Nessus, Metasploit, Wireshark <br />
 Software Security Tools: Burpsuite, Nikto, OWASP ZAP, SonarQube <br />
 Malware Analysis Tools: Ghidra, IDA Pro, JADX, VirusTotal, AnyRun<br />
 DBMSs / ORMs: PostgreSQL / MySQL, MongoDB / Mongoose, Firebase, GORM, Eloquent
+-->
+
+<!--
+**Software Development**: Laravel, Gin, Django, Expressjs, Reactjs/Nextjs, AJAX/JQuery, Tailwindcss<br />
+**DevOps**: Docker, Kubernetes, Jenkins, Redis<br />
+**DB/DBMS**: SQL, MongoDB / Mongoose, MySQL, PostgreSQL<br />
+**Programming Languages**: Python, Go, PHP, Java, Javascript/Typescript, Bash, C/C++<br />
+**Penetration Testing**: Burpsuite, OWASP ZAP, SQLMap, NoSQLMap, BeEF, GraphSQL Raider, Dirsearch, Shodan, Wappalyzer, NMap, DNSRecon, Nessus, Nikto, FFuF, Hydra<br />
+**SIEM**: Wazuh<br />
+**IDS/IPS**: Snort<br />
+**Honeypot(s)**: Snare & Tanner, Dionaea, Cowrie<br />
+**Reversing / Malware Analysis**: Ghidra, IDA Pro, VirusTotal, Anyrun, Triage<br />
+**Code Analysis**: Semgrep, SonarQube<br />
 -->
