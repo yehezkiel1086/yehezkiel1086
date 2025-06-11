@@ -20,6 +20,9 @@ A Backend Developer and A Cyber Security Enthusiast.
 - [x.com/yehezkiel1086](https://x.com/yehezkiel1086)
 - [linkedin.com/in/yehezkiel-wiradhika](https://www.linkedin.com/in/yehezkiel-wiradhika/)
 
+## Statistics
+<figure><embed src="https://wakatime.com/share/@e08f8b14-02a9-4fc3-a997-6be14dbaff15/e0db48a9-2abd-4bcd-a59a-d5d04197f2d6.svg"></embed></figure>
+
 <!--
 ## Tech Stacks
 
