@@ -6,11 +6,11 @@ A Fullstack Developer with Focus on Backend and A Cyber Security Enthusiast.
 
 **Programming Language**: Go, PHP, Python, Javascript/Typescript, Bash, C/C++ <br />
 **Backend Frameworks**: Gin, Laravel, Expressjs <br />
+**Frontend**: Reactjs/Nextjs, Tailwindcss, Bootstrap, AJAX/JQuery <br />
 **DB/DBMS**: SQL, MongoDB, PostgreSQL, MySQL, Mongoose <br />
 **DevOps**: Docker, Kubernetes, Jenkins <br />
 **Red Team**: Burpsuite, NMap, Nikto, OWASP Zap, VirusTotal, Ghidra, IDA Pro, Triage, Metasploitable <br />
-**Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare & Tanner <br />
-**Frontend**: Reactjs/Nextjs, Tailwindcss, Bootstrap, AJAX/JQuery
+**Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare & Tanner
 
 ## Research
 - Statistics and Frequent Pattern Data Analysis of Web Honeypot with Apriori Algorithm: Snare & Tanner
