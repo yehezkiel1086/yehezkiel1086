@@ -13,7 +13,7 @@ A Fullstack Developer with Focus on Backend and A Cyber Security Enthusiast.
 **Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare & Tanner
 
 ## Research
-- Statistics and Frequent Pattern Data Analysis of Web Honeypot with Apriori Algorithm: Snare & Tanner
+- Statistics and Frequent Pattern Based Data Analysis of Web Honeypot with Apriori Algorithm: Snare & Tanner
 
 ## Feel free to reach out!
 
