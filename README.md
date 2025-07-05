@@ -4,7 +4,7 @@ A Fullstack Developer with Focus on Backend • A Cyber Security, Blockchain and
 
 ## Tech Stacks
 
-**Programming Languages**: Go, Python, Typescript/Nodejs, Bash, C/C++ <br />
+**Scripting Languages**: Go, Python, Typescript/Nodejs, Bash, C/C++ <br />
 **Backend Frameworks**: Gin, Expressjs, Laravel <br />
 **Frontend**: Reactjs/Nextjs, Tailwindcss, Bootstrap, AJAX/JQuery <br />
 **DB/DBMS/Caching**: SQL, MongoDB/Mongoose, PostgreSQL, GORM, Redis, Firebase<br />
