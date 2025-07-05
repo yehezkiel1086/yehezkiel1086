@@ -12,7 +12,7 @@ A Fullstack Developer with Focus on Backend • A Cyber Security, Blockchain and
 **Red Team**: Burpsuite, NMap, Nikto, OWASP Zap, VirusTotal, Ghidra, IDA Pro, Triage, Metasploit <br />
 **Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare/Tanner
 
-## Research
+## Researches
 - Statistics and Frequent Pattern Data Analysis of Web Honeypot with Apriori and FPGrowth Algorithms: Snare & Tanner
 
 ## Feel free to reach out!
