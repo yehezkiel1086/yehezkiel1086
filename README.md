@@ -14,7 +14,7 @@ A Fullstack Developer with Focus on Backend • A Cyber Security, Machine Learni
 
 ## Researches
 - Multi-Log Based SIEM-SOAR ML Integrated Real-Time Fraud Detection and Prevention
-- Statistics and Machine Learning Based Attack Data Analysis of Web Honeypot: Snare & Tanner
+- Statistics and Machine Learning Based Attack Data Analysis of Web Honeypot
 
 ## Feel free to reach out!
 
