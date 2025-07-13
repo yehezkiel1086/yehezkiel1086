@@ -13,6 +13,7 @@ A Fullstack Developer with Focus on Backend • A Cyber Security, Machine Learni
 **Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare/Tanner
 
 ## Researches
+- Multi-Log Based SIEM-SOAR ML Integrated Real-Time Fraud Detection and Prevention
 - Statistics and Machine Learning Based Attack Data Analysis of Web Honeypot: Snare & Tanner
 
 ## Feel free to reach out!
