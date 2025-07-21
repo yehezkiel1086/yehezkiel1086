@@ -21,6 +21,7 @@ A Fullstack Software Engineer with Focus on Backend • A Cyber Security, Machin
 - [x.com/yehezkiel1086](https://x.com/yehezkiel1086)
 - [linkedin.com/in/yehezkiel-wiradhika](https://www.linkedin.com/in/yehezkiel-wiradhika/)
 
+<!--
 ## Blogs
 - [medium.com/@yehezkiel1086](https://medium.com/@yehezkiel1086)
 - [dev.to/yehezkiel1086](https://dev.to/yehezkiel1086)
@@ -29,6 +30,7 @@ A Fullstack Software Engineer with Focus on Backend • A Cyber Security, Machin
 - [codewars.com/users/yehezkiel1086](https://www.codewars.com/users/yehezkiel1086)
 - [leetcode.com/u/yehezkiel1086](https://leetcode.com/u/yehezkiel1086/)
 - [hackerrank.com/profile/yehezkiel1086](https://www.hackerrank.com/profile/yehezkiel1086)
+-->
 
 ## Statistics
 
