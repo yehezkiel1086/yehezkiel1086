@@ -14,7 +14,7 @@ A Fullstack Software Engineer with Focus on Backend • A Cyber Security and Mac
 
 ## Researches
 - Multi-Log Based SIEM-SOAR ML Integrated Real-Time Fraud Detection and Prevention
-- Statistics and Machine Learning Based Attack Data Analysis of Web Honeypot
+- Statistics, Frequent Pattern Mining and Machine Learning Based Attack Data Analysis of Web Honeypot
 
 ## Feel free to reach out!
 
