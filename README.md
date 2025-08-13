@@ -6,11 +6,11 @@ A Fullstack Software Engineer with Focus on Backend and DevOps • A Cyber Secur
 
 **Scripting Languages**: Go, Python, Typescript/Nodejs, Bash, C/C++ <br />
 **Backend Frameworks**: Gin, Expressjs, Laravel, Flask <br />
-**Frontend**: Reactjs/Nextjs, Tailwindcss, Bootstrap, AJAX/JQuery <br />
-**DB/DBMS/Caching**: SQL, MongoDB/Mongoose, PostgreSQL, GORM, Redis, Firebase<br />
 **DevOps/Infra**: Docker, Kubernetes, Github Actions, RabbitMQ, Nginx<br />
-**Red Team**: Burpsuite, NMap, Nikto, OWASP Zap, VirusTotal, Ghidra, IDA Pro, Triage, Metasploit <br />
-**Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare/Tanner
+**DB/DBMS/Caching**: SQL, MongoDB/Mongoose, PostgreSQL, GORM, Redis, Firebase<br />
+**Frontend**: Reactjs/Nextjs, Tailwindcss, Bootstrap, AJAX/JQuery <br />
+**Red Team**: Burpsuite, NMap, SQLMap, OWASP Zap, Nikto, Nessus, Metasploit <br />
+**Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare/Tanner, VirusTotal, Ghidra, IDA Pro, Triage
 
 ## Researches
 - Multi-Log Based SIEM-SOAR ML Integrated Real-Time Fraud Detection and Prevention
