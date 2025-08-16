@@ -4,7 +4,7 @@ A Fullstack Software Engineer with focus on Backend • A Cyber Security, DevOps
 
 ## Tech Stacks
 
-**Scripting Languages**: Go, Python, Typescript/Nodejs, PHP, Bash, C/C++ <br />
+**Scripting Languages**: Go, Python, Typescript/Nodejs, PHP, Bash, Java, C/C++ <br />
 **Backend Frameworks**: Gin, Laravel, Expressjs, Flask <br />
 **DevOps/Infra**: Docker, Kubernetes, Github Actions, RabbitMQ, Nginx<br />
 **DB/DBMS/Caching**: SQL, MongoDB/Mongoose, PostgreSQL, GORM, Redis, Firebase<br />
