@@ -8,7 +8,7 @@ A Fullstack Software Engineer with focus on Backend • A Cyber Security, DevOps
 **Backend Frameworks**: Gin, Laravel, Expressjs, Flask <br />
 **DevOps/Infra**: Docker, Kubernetes, Github Actions, RabbitMQ, Nginx<br />
 **DB/DBMS/Caching**: SQL, MongoDB/Mongoose, PostgreSQL, GORM, Redis, Firebase<br />
-**Frontend**: Reactjs/Nextjs, Tailwindcss, Bootstrap, AJAX/JQuery <br />
+**Frontend**: Reactjs/Nextjs, Tailwindcss, Shadcn, Bootstrap, AJAX/JQuery <br />
 **Red Team**: Burpsuite, NMap, SQLMap, OWASP Zap, Nikto, Nessus, Metasploit <br />
 **Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare/Tanner, VirusTotal, Ghidra, IDA Pro, Triage
 
