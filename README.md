@@ -1,6 +1,6 @@
 # Hey, I'm Hezky!
 
-A Fullstack Software Developer with strong focus on Backend Engineering • A Cyber Security and Machine Learning Enthusiast.
+Backend Engineer • Cyber Security Enthusiast • Sometimes make Machine Learning model to make Security and Backend systems smarter.
 
 ## Tech Stacks
 
