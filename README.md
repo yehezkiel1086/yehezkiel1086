@@ -1,6 +1,6 @@
 # Hey, I'm Hezky!
 
-A Backend Engineer and Cyber Security Enthusiast who sometimes make Machine Learning models to make Security and Backend systems smarter.
+A Backend Developer and Cyber Security Enthusiast.
 
 ## Tech Stacks
 
