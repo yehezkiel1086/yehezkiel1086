@@ -8,9 +8,10 @@ A Backend Developer and Cyber Security Enthusiast. Mainly work in Go and Python 
 **Backend Frameworks**: Gin, Expressjs, Laravel, Flask <br />
 **DevOps/Infra**: Docker, Kubernetes, Github Actions, RabbitMQ, Nginx<br />
 **DB/DBMS/Caching**: SQL, PostgreSQL, GORM, MySQL, MongoDB/Mongoose, Redis, Firebase<br />
-**Frontend**: Reactjs/Nextjs, Tailwindcss, Shadcn, Bootstrap, AJAX/JQuery <br />
+**Frontend**: Nextjs, Tailwindcss, Shadcn<br />
 **Red Team**: Burpsuite, NMap, SQLMap, OWASP Zap, Nikto, Nessus, Metasploit <br />
-**Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare/Tanner, VirusTotal, Ghidra, IDA Pro, Triage
+**Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare/Tanner, VirusTotal, Ghidra, IDA Pro, Triage <br />
+**Misc (ML)**: Tensorflow, SKLearn, MLXtend
 
 ## Researches
 - Multi-Log Based SIEM-SOAR ML Integrated Real-Time Fraud Detection and Prevention
