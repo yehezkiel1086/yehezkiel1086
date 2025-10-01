@@ -1,6 +1,6 @@
 # Hey, I'm Hezky!
 
-A Backend Developer and Cyber Security Enthusiast. Mainly work in Go and Python environments with Microservices architectures. Had experience in doing pentest to 20+ web applications.
+A Backend Developer and Cyber Security Enthusiast. Mainly work in Go and Python environments with Microservices architectures. Had experience in doing pentest to 20+ web applications. Sometimes build with Machine Learning to make smarter Security systems.
 
 ## Tech Stacks
 
