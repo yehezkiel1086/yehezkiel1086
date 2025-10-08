@@ -1,6 +1,6 @@
 # Hey, I'm Hezky!
 
-A Backend Developer and Cyber Security Enthusiast. Mainly work in Go and Python environments with Microservices architectures. Had experience in doing pentest to 20+ web applications. Sometimes build with Machine Learning to make smarter Security systems.
+A Backend Developer and Cyber Security Enthusiast. Mainly work in Go and Python environments with Microservices architecture. Had experience in doing Penetration Tests to 20+ web applications. Sometimes build with Machine Learning to make smarter Security systems.
 
 ## Tech Stacks
 
@@ -11,7 +11,7 @@ A Backend Developer and Cyber Security Enthusiast. Mainly work in Go and Python 
 **Frontend**: Nextjs, Tailwindcss, Shadcn<br />
 **Red Team**: Burpsuite, NMap, SQLMap, OWASP Zap, Nikto, Nessus, Metasploit <br />
 **Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare/Tanner, VirusTotal, Ghidra, IDA Pro, Triage <br />
-**Misc (ML)**: Tensorflow, SKLearn, MLXtend
+**ML**: NumPy, Pandas, Matplotlib, Seaborn, Tensorflow, SKLearn, MLXtend
 
 ## Researches
 - Multi-Log Based SIEM-SOAR ML Integrated Real-Time Fraud Detection and Prevention
