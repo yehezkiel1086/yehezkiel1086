@@ -4,13 +4,14 @@ A **Fullstack Developer** with strong focus on **Backend** and A **Cyber Securit
 
 ## Tech Stacks
 
-**Scripting Languages**: Go, Python, Nodejs/Typescript, PHP, Bash, Java, C/C++ <br />
-**Backend Frameworks**: Gin, Expressjs, Laravel, Flask <br />
-**DevOps/Infra**: Docker, Kubernetes, Github Actions, RabbitMQ, Nginx<br />
-**DB/DBMS/Caching**: SQL, PostgreSQL, GORM, MySQL, MongoDB/Mongoose, Redis, Firebase<br />
-**Frontend**: Nextjs, Tailwindcss, Shadcn<br />
-**Red Team**: Burpsuite, NMap, SQLMap, OWASP Zap, Nikto, Nessus, Metasploit <br />
-**Blue Team**: Wazuh, Snort, Cowrie, Dionaea, Snare/Tanner, VirusTotal, Ghidra, IDA Pro, Triage <br />
+**Scripting Languages**: Go, Python, Nodejs/Typescript, PHP, Bash, Java, C/C++ \
+**Backend Frameworks**: Gin, Expressjs, Laravel, Flask \
+**DevOps/Infra**: Docker, Kubernetes, Github Actions, RabbitMQ, Nginx \
+**Message Brokers/Queueing**: RabbitMQ, Kafka \
+**DB/DBMS/Caching**: SQL, PostgreSQL, GORM, MySQL, MongoDB/Mongoose, Redis, Firebase \
+**Frontend**: Nextjs, Tailwindcss, Shadcn \
+**Pentest/Red Team**: Burpsuite, NMap, SQLMap, OWASP Zap, Nikto, Nessus, Metasploit \
+**Server Hardening/DFIR/SOC**: Wazuh, Snort, Cowrie, Dionaea, Snare/Tanner, VirusTotal, Ghidra, IDA Pro, Triage \
 **ML**: NumPy, Pandas, Matplotlib, Seaborn, Tensorflow, SKLearn, MLXtend
 
 ## Researches
