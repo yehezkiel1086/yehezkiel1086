@@ -4,11 +4,11 @@ A **Fullstack Developer** with strong focus on **Backend** and A **Cyber Securit
 
 ## Tech Stacks
 
-**Scripting Languages**: Go, Python, Nodejs, PHP, Bash, Java, C/C++ \
-**Backend Frameworks**: Gin, Expressjs, Laravel, Flask \
-**Frontend**: Nextjs, React, Typescript, Tailwindcss, Shadcn \
+**Scripting Languages**: Go, Python, Node.js, PHP, Bash, Java, C/C++ \
+**Backend Frameworks**: Gin, Express.js, Laravel, Flask \
+**Frontend**: Next.js, React, Typescript, Tailwindcss, Shadcn \
 **DevOps/Infra**: Docker, Kubernetes, Github Actions, RabbitMQ, Nginx \
-**Message Brokers/Queueing**: RabbitMQ, Kafka \
+**Message Brokers/Queues**: RabbitMQ, Kafka \
 **DB/DBMS/Caching**: SQL, PostgreSQL, GORM, MySQL, MongoDB/Mongoose, Redis, Firebase \
 **Pentest/Red Team**: Burpsuite, NMap, SQLMap, OWASP Zap, Nikto, Nessus, Metasploit \
 **Server Hardening/DFIR/SOC**: Wazuh, Snort, Cowrie, Dionaea, Snare/Tanner, VirusTotal, Ghidra, IDA Pro, Triage \
@@ -37,27 +37,3 @@ A **Fullstack Developer** with strong focus on **Backend** and A **Cyber Securit
 ## Statistics
 
 <img src="https://wakatime.com/share/@e08f8b14-02a9-4fc3-a997-6be14dbaff15/e0db48a9-2abd-4bcd-a59a-d5d04197f2d6.svg" alt="Programming Activities" width="500" />
-
-<!--
-## Tech Stacks
-
-Scripting Languages: Go, Python, PHP, Bash, C/C++, Javascript/Typescript <br />
-Web Frameworks: Laravel, Django, Gin, Expressjs, JQuery / AJAX, Reactjs / Nextjs <br />
-Network Security Tools: Wazuh, Snort, NMap, Nessus, Metasploit, Wireshark <br />
-Software Security Tools: Burpsuite, Nikto, OWASP ZAP, SonarQube <br />
-Malware Analysis Tools: Ghidra, IDA Pro, JADX, VirusTotal, AnyRun<br />
-DBMSs / ORMs: PostgreSQL / MySQL, MongoDB / Mongoose, Firebase, GORM, Eloquent
--->
-
-<!--
-**Software Development**: Laravel, Gin, Django, Expressjs, Reactjs/Nextjs, AJAX/JQuery, Tailwindcss<br />
-**DevOps**: Docker, Kubernetes, Jenkins, Redis<br />
-**DB/DBMS**: SQL, MongoDB / Mongoose, MySQL, PostgreSQL<br />
-**Programming Languages**: Python, Go, PHP, Java, Javascript/Typescript, Bash, C/C++<br />
-**Penetration Testing**: Burpsuite, OWASP ZAP, SQLMap, NoSQLMap, BeEF, GraphSQL Raider, Dirsearch, Shodan, Wappalyzer, NMap, DNSRecon, Nessus, Nikto, FFuF, Hydra<br />
-**SIEM**: Wazuh<br />
-**IDS/IPS**: Snort<br />
-**Honeypot(s)**: Snare & Tanner, Dionaea, Cowrie<br />
-**Reversing / Malware Analysis**: Ghidra, IDA Pro, VirusTotal, Anyrun, Triage<br />
-**Code Analysis**: Semgrep, SonarQube<br />
--->
