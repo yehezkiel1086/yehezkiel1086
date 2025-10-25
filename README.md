@@ -7,10 +7,10 @@ A **Fullstack Developer** with strong focus on **Backend** and A **Cyber Securit
 **Scripting Languages**: Go, Python, Node.js, PHP, Bash, Java, C/C++ \
 **Backend Frameworks**: Gin, Express.js, Laravel, Flask \
 **Frontend**: Next.js, React, Typescript, Tailwindcss, Shadcn \
-**DevOps/Infra**: Docker, Kubernetes, Github Actions, RabbitMQ, Nginx \
+**DevOps/Infra**: Docker, Kubernetes, Github Actions, Nginx, Apache \
 **Message Brokers/Queues**: RabbitMQ, Kafka \
 **DB/DBMS/Caching**: SQL, PostgreSQL, GORM, MySQL, MongoDB/Mongoose, Redis, Firebase \
-**Pentest/Red Team**: Burpsuite, NMap, SQLMap, OWASP Zap, Nikto, Nessus, Metasploit \
+**Pentest/Red Team**: Burpsuite, Kali Linux, NMap, SQLMap, OWASP Zap, Nikto, Nessus, Metasploit \
 **Server Hardening/DFIR/SOC**: Wazuh, Snort, Cowrie, Dionaea, Snare/Tanner, VirusTotal, Ghidra, IDA Pro, Triage \
 **ML**: NumPy, Pandas, Matplotlib, Seaborn, Tensorflow, SKLearn, MLXtend
 
