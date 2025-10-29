@@ -12,7 +12,7 @@ A **Fullstack Developer** with strong focus on **Backend** and A **Cyber Securit
 **DB/DBMS/Caching**: SQL, PostgreSQL, GORM, MySQL, MongoDB/Mongoose, Redis, Firebase \
 **Pentest/Red Team**: Burpsuite, Kali Linux, NMap, SQLMap, OWASP Zap, Nikto, Nessus, Metasploit \
 **Server Hardening/DFIR/SOC**: Wazuh, Snort, Cowrie, Dionaea, Snare/Tanner, VirusTotal, Ghidra, IDA Pro, Triage \
-**ML**: NumPy, Pandas, Matplotlib, Seaborn, Tensorflow, SKLearn, MLXtend \
+**ML/DL**: NumPy, Pandas, Matplotlib, Seaborn, Tensorflow, SKLearn, MLXtend \
 **AI Engineering**: LangChain, LangGraph, OpenAI API
 
 ## Researches
