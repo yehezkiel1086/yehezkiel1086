@@ -1,6 +1,6 @@
 # Hey, I'm Hezky!
 
-A **Fullstack Developer** with strong focus on **Backend** and A **Cyber Security Enthusiast**. Mainly work in Go, Python, Docker, Next.js, Typescript and LangChain environments with Microservices architecture. Had experience in doing Penetration Tests to 20+ web applications also server security hardenings. Sometimes build / integrate **AI / Machine Learning** models to make intelligent apps / security systems.
+A **Fullstack Developer** with strong focus on **Backend** and A **Cyber Security Enthusiast**. Mainly work in Go, Python, Docker, Next.js, Typescript and LangChain environments with Microservices architecture. Had experience in doing Penetration Tests to 20+ web applications. Sometimes build / integrate **AI / Machine Learning** models to make intelligent apps / security systems.
 
 ## Tech Stacks
 
