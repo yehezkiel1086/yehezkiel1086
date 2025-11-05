@@ -1,4 +1,4 @@
-# Hey, I'm Hezky!
+# Hey, I'm Yehezkiel!
 
 A **Backend Engineer** who mainly work in Go, Python and microservices environments. Hands-on experience in **Cloud / DevOps workflows** with CI/CD, and container orchestration. Also a **Cyber Security Enthusiast** experienced in 20+ web app penetration testing with hands on experience in server hardening and API security. Sometimes build / integrate **AI / Machine Learning** models to make intelligent apps / security systems.
 
