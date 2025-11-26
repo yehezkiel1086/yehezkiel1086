@@ -1,6 +1,6 @@
 # Hey, I'm Yehezkiel!
 
-A **Fullstack Engineer** with strong focus on **Backend** who work in Go, Next.js, Typescript, Node.js, Laravel, Python and microservices environments. Hands-on experience in **Cloud/DevOps workflows** with CI/CD, and container orchestration. A **Cyber Security Enthusiast** experienced in 20+ web app penetration testing with hands on experience in server hardening and API security. I build / integrate **AI / Machine Learning** models to make intelligent apps / security systems.
+A **Software Engineer** with strong focus on **Backend** who work in Go, Next.js, Typescript, Node.js, Laravel, Python and microservices environments. Hands-on experience in **Cloud/DevOps workflows** with CI/CD, and container orchestration. A **Cyber Security Enthusiast** experienced in 20+ web app penetration testing with hands on experience in server hardening and API security. I build / integrate **AI / Machine Learning** models to make intelligent apps / security systems.
 
 [![committers.top badge](https://user-badge.committers.top/indonesia/yehezkiel1086.svg)](https://user-badge.committers.top/indonesia/yehezkiel1086)
 
