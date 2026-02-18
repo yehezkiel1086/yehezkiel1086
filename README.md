@@ -35,23 +35,6 @@ Currently working on backend systems, cloud deployments, and AI-powered applicat
 - Basic server hardening
 - Vulnerability assessment experience
 
-## Tech Stack
-
-**Languages**  
-Go, Python, Node.js, PHP, Bash
-
-**Backend**  
-Gin, Express.js, Laravel, Flask
-
-**Frontend (supporting role)**  
-Next.js, React, TypeScript, TailwindCSS
-
-**Databases & Caching**  
-PostgreSQL, MySQL, Redis, MongoDB
-
-**Infrastructure**  
-Docker, GitHub Actions, Nginx
-
 ## 📚 Selected Research & Technical Interests
 
 - ML-assisted fraud detection systems
