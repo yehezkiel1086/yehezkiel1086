@@ -6,8 +6,6 @@ I specialize in designing REST APIs, distributed services, and production-ready 
 
 Currently working on backend systems, cloud deployments, and AI-powered applications.
 
----
-
 ## Core Expertise
 
 ### Backend Engineering (Primary Focus)
@@ -37,8 +35,6 @@ Currently working on backend systems, cloud deployments, and AI-powered applicat
 - Basic server hardening
 - Vulnerability assessment experience
 
----
-
 ## Tech Stack
 
 **Languages**  
@@ -56,21 +52,11 @@ PostgreSQL, MySQL, Redis, MongoDB
 **Infrastructure**  
 Docker, GitHub Actions, Nginx
 
----
-
 ## 📚 Selected Research & Technical Interests
 
 - ML-assisted fraud detection systems
 - Log analysis & attack pattern detection
 - Backend architecture for AI-powered systems
-
----
-
-## 🎯 Career Goal
-
-Backend Engineer specializing in Go and cloud-native systems, aiming to contribute to scalable backend platforms and production systems in international environments.
-
----
 
 ## Reach Me
 
