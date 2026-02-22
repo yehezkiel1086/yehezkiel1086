@@ -2,14 +2,14 @@
 
 Backend Engineer (Go) focused on building reliable, scalable backend systems and cloud-native applications.
 
-I specialize in designing REST APIs, distributed services, and production-ready systems using Go. I have hands-on experience deploying applications with Docker and CI/CD workflows, and integrating AI services into backend architectures.
+I specialize in designing APIs, distributed services, and production-ready systems using Go. I have hands-on experience deploying applications with Docker and CI/CD workflows, and integrating AI services into backend architectures.
 
 Currently working on backend systems, cloud deployments, and AI-powered applications.
 
 ## Core Expertise
 
 ### Backend Engineering (Primary Focus)
-- Go (Gin, net/http)
+- Go (Gin, Echo, net/http)
 - RESTful API design
 - Authentication & Authorization (JWT)
 - SQL (PostgreSQL, MySQL)
@@ -25,15 +25,15 @@ Currently working on backend systems, cloud deployments, and AI-powered applicat
 - Basic cloud deployments (AWS / GCP)
 
 ### AI Integration (Applied AI Engineering)
-- Integrating LLM APIs (OpenAI)
+- Integrating LLM APIs
 - LangChain / LangGraph
-- Model inference service integration
+- Model inference service integration (YOLO, Tensorflow)
 - Building AI-powered backend systems
 
 ### Security Awareness
 - Secure API design (OWASP Top 10)
 - Basic server hardening
-- Vulnerability assessment experience
+- Vulnerability assessment (Pentesting) experience
 
 ## 📚 Selected Research & Technical Interests
 
