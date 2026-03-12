@@ -10,7 +10,7 @@ Currently working on backend systems, cloud deployments, and AI-powered applicat
 - Go (Gin, Echo, net/http)
 - RESTful API design
 - Authentication & Authorization (JWT)
-- SQL (PostgreSQL, MySQL)
+- SQL (PostgreSQL, MySQL, SQL Server)
 - Redis (caching, rate limiting)
 - Message queues (RabbitMQ, Kafka)
 - Clean architecture & microservices
