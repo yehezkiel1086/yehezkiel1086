@@ -31,12 +31,11 @@ Currently working on backend systems, DevOps tools integration, and AI-powered a
 ### Security Awareness
 - Secure API design (OWASP Top 10)
 - Basic server hardening
-- Vulnerability assessment (Pentesting) experience
+- 20+ Vulnerability Assessment (Pentesting) experience
 
 ## 📚 Selected Research & Technical Interests
 
-- ML-assisted fraud detection systems
-- Log analysis & attack pattern detection
+- ML based Web Honeypot Attack Data Analysis
 - Backend architecture for AI-powered systems
 
 ## Reach Me
