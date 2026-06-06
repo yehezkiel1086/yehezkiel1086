@@ -8,29 +8,23 @@ Currently working on backend systems, DevOps tools integration, and AI-powered a
 
 ### Backend Engineering (Primary Focus)
 - Go (Gin, Echo, net/http)
-- RESTful API design
-- Authentication & Authorization (JWT)
-- SQL (PostgreSQL, MySQL, SQL Server)
-- Redis (caching, rate limiting)
+- SQL (PostgreSQL, MySQL, SQL Server), Redis (caching, rate limiting)
 - Message queues (RabbitMQ, Kafka)
 - Clean architecture & microservices
 
 ### Cloud & DevOps
-- Docker
+- Docker / Kubernetes
 - GitHub Actions (CI/CD)
-- Linux server management
-- Nginx
-- Basic cloud deployments (AWS / GCP)
+- Linux server management, Nginx
+- Cloud deployments (AWS / GCP / VPS)
 
 ### AI Integration (Applied AI Engineering)
-- Integrating LLM APIs
-- LangChain / LangGraph
+- Integrating LLMs, LangChain / LangGraph
 - Model inference service integration (YOLO, Tensorflow)
-- Building AI-powered backend systems
 
 ### Security Awareness
 - Secure API design (OWASP Top 10)
-- Basic server hardening
+- Server hardening
 - 20+ Vulnerability Assessment (Pentesting) experience
 
 ## 📚 Selected Research & Technical Interests
