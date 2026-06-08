@@ -4,6 +4,7 @@ Backend Engineer (Go) focused on building reliable, scalable backend systems. I 
 
 Currently working on backend systems, DevOps tools integration, and AI-powered applications.
 
+<!--
 ## Core Expertise
 
 ### Backend Engineering (Primary Focus)
@@ -31,7 +32,7 @@ Currently working on backend systems, DevOps tools integration, and AI-powered a
 
 - ML based Web Honeypot Attack Data Analysis
 - Backend architecture for AI-powered systems
-
+-->
 ## Reach Me
 
 - Medium: https://medium.com/@yehezkiel1086
