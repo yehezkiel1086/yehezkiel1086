@@ -1,8 +1,8 @@
 # Hey, I'm Yehezkiel
 
-Backend Engineer (Go) focused on building reliable, scalable backend systems. I specialize in designing/building APIs, distributed services, and production-ready systems using Go. I have hands-on experience deploying applications with Docker and CI/CD workflows, and integrating AI services into backend architectures.
+Backend Engineer (Go) focused on building reliable, scalable backend systems. I specialize in designing/building APIs, distributed services, and production-ready systems using Go. I have hands-on experience deploying applications with Docker and CI/CD workflows, and integrating AI services (ML/RAG/Computer Vision) into backend architectures.
 
-Currently working on backend systems, DevOps tools integration, and AI-powered applications.
+Currently working on Backend systems, DevOps tools integration, and AI/ML/Computer Vision Orchestration.
 
 <!--
 ## Core Expertise
