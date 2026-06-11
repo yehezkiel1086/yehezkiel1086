@@ -2,7 +2,7 @@
 
 Backend Engineer (Go) focused on building reliable, scalable backend systems. I specialize in designing/building APIs, distributed services, and production-ready systems using Go. I have hands-on experience deploying applications with Docker and CI/CD workflows, and integrating AI services (ML/RAG/Computer Vision) into backend architectures.
 
-Currently working on Backend systems, DevOps tools integration, and AI/ML/Computer Vision Orchestration.
+Currently working on Backend systems, DevOps tools integration, and AI/ML/Computer Vision Orchestration. I'm also a Cyber Security enthusiast, sometimes doing security research, pentest, server hardening and application hardening.
 
 <!--
 ## Core Expertise
