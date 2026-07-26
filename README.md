@@ -1,10 +1,10 @@
 # Hey, I'm Yehezkiel
 
-Cyber Security Professional specializing in Penetration Testing, Application Security, and DevSecOps. I conduct vulnerability assessments and penetration testing across web applications, perform secure code review and static analysis (Semgrep, SonarQube), and build security-first infrastructure with Docker, Kubernetes, and CI/CD hardening.
+Cyber Security Professional specializing in Penetration Testing, Application Security, Network Security, and DevSecOps. I conduct vulnerability assessments and penetration testing across web applications and network infrastructure (Nmap, DNS enumeration, zone transfers), perform secure code review and static analysis (Semgrep, SonarQube), and architect security-first infrastructure with detection engineering (IDS/IPS, SIEM, honeypot deployment) and server hardening.
 
-I bring a builder's perspective to security work from hands-on experience architecting production-grade microservices and distributed systems in Go — understanding both offensive and defensive security from the ground up. This includes secure API design, secure SDLC practices, and integrating ML/Computer Vision systems with security considerations.
+I bring a builder's perspective to security work from hands-on experience architecting production-grade microservices and distributed systems in Go — understanding both offensive and defensive security from the ground up. This includes secure API design, secure SDLC practices, network security best practices, and integrating ML/Computer Vision systems with security considerations.
 
-Currently focused on offensive security (VAPT, exploitation, threat detection), detection engineering (SIEM/IDS tuning with Wazuh, Snort), malware analysis, and secure backend/infrastructure architecture. Also experienced in deploying secure AI/ML systems and threat intelligence automation.
+Currently focused on offensive security (VAPT, network reconnaissance, exploitation, threat detection), defensive security and detection engineering (Wazuh SIEM, Snort IDS, honeypot analysis), malware analysis, server hardening, and secure backend/infrastructure architecture. Also experienced in deploying secure AI/ML systems, threat intelligence automation, and attack pattern analysis.
 
 <!-- Backend Engineer (Go) focused on building reliable, scalable backend systems. I specialize in designing/building APIs, distributed systems, microservices and production-ready systems using Go. I have hands-on experience deploying applications with Docker, Kubernetes and CI/CD workflows, and integrating AI services (ML/RAG/Computer Vision - sometimes building models) into backend architectures.
 
