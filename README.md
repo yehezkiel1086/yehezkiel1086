@@ -1,8 +1,14 @@
 # Hey, I'm Yehezkiel
 
-Backend Engineer (Go) focused on building reliable, scalable backend systems. I specialize in designing/building APIs, distributed systems, microservices and production-ready systems using Go. I have hands-on experience deploying applications with Docker, Kubernetes and CI/CD workflows, and integrating AI services (ML/RAG/Computer Vision - sometimes building models) into backend architectures.
+Cyber Security Professional specializing in Penetration Testing, Application Security, and DevSecOps. I conduct vulnerability assessments and penetration testing across web applications, perform secure code review and static analysis (Semgrep, SonarQube), and build security-first infrastructure with Docker, Kubernetes, and CI/CD hardening.
 
-Currently working on Backend systems, DevOps tools integration, and AI/ML/Computer Vision Orchestration. I'm also a Cyber Security enthusiast, sometimes doing security research, pentest, server hardening and application hardening.
+I bring a builder's perspective to security work from hands-on experience architecting production-grade microservices and distributed systems in Go — understanding both offensive and defensive security from the ground up. This includes secure API design, secure SDLC practices, and integrating ML/Computer Vision systems with security considerations.
+
+Currently focused on offensive security (VAPT, exploitation, threat detection), detection engineering (SIEM/IDS tuning with Wazuh, Snort), malware analysis, and secure backend/infrastructure architecture. Also experienced in deploying secure AI/ML systems and threat intelligence automation.
+
+<!-- Backend Engineer (Go) focused on building reliable, scalable backend systems. I specialize in designing/building APIs, distributed systems, microservices and production-ready systems using Go. I have hands-on experience deploying applications with Docker, Kubernetes and CI/CD workflows, and integrating AI services (ML/RAG/Computer Vision - sometimes building models) into backend architectures.
+
+Currently working on Backend systems, DevOps tools integration, and AI/ML/Computer Vision Orchestration. I'm also a Cyber Security enthusiast, sometimes doing security research, pentest, server hardening and application hardening. -->
 
 <!--
 ## Core Expertise
