@@ -15,7 +15,7 @@ Security: I conduct vulnerability assessments and penetration testing across web
 
 Cloud & DevSecOps: Docker, Kubernetes, GitHub Actions CI/CD, Linux server management, Nginx, and cloud deployments (AWS/VPS) — approached with a security-first mindset toward infrastructure and deployment pipelines.
 
-AI/ML Integration: Hands-on experience integrating LLMs (LangChain), computer vision model inference (YOLO, TensorFlow), and orchestrating AI services within secure backend architectures.
+AI/ML Integration: Hands-on experience integrating LLMs (LangChain), Computer Vision model inference (YOLO, TensorFlow), and orchestrating AI services within secure backend architectures.
 
 Currently pursuing offensive security (VAPT, exploitation, network reconnaissance), detection engineering, and secure infrastructure work, while continuing to build production backend systems. Pursuing eLearnSecurity Junior Penetration Tester (eJPT) certification.
 
