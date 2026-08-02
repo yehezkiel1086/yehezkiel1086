@@ -7,7 +7,7 @@ I bring a builder's perspective to security work from hands-on experience archit
 Currently focused on offensive security (VAPT, network reconnaissance, exploitation, threat detection), defensive security and detection engineering (Wazuh SIEM, Snort IDS, honeypot analysis), malware analysis, server hardening, and secure backend/infrastructure architecture. Also experienced in deploying secure AI/ML systems, threat intelligence automation, and attack pattern analysis.
 -->
 
-Go Backend & Cyber Security Specialist specializing in production-grade experience architecting Go (Golang) microservices and distributed systems — backed by Penetration Testing, Application Security, Network Security, and DevSecOps. This dual background means I understand vulnerabilities from both sides: as an attacker probing for weaknesses, and as an engineer who has built and deployed the systems being attacked.
+Go Backend Engineer & Cyber Security Enthusiast specializing in production-grade experience architecting Go (Golang) microservices and distributed systems — backed by Penetration Testing, Application Security, Network Security, and DevSecOps. This dual background means I understand vulnerabilities from both sides: as an attacker probing for weaknesses, and as an engineer who has built and deployed the systems being attacked.
 
 Backend & Distributed Systems: I design and build production-ready APIs, microservices, and distributed systems in Go (Gin, Echo, net/http), with Clean Architecture and Hexagonal Architecture patterns. Experience with PostgreSQL, MySQL, SQL Server, and Redis for caching and rate limiting, RabbitMQ and Kafka for event-driven messaging, and gRPC (Protobuf) for service-to-service communication.
 
