@@ -11,9 +11,9 @@ Backend / DevSecOps Engineer specializing in production-grade experience archite
 
 Backend & Distributed Systems: I design and build production-ready APIs, microservices, and distributed systems in Go (Gin, Echo, net/http), with Clean Architecture and Hexagonal Architecture patterns. Experience with PostgreSQL, MySQL, SQL Server, and Redis for caching and rate limiting, RabbitMQ and Kafka for event-driven messaging, and gRPC (Protobuf) for service-to-service communication.
 
-Security: I conduct vulnerability assessments and penetration testing across web applications and network infrastructure (Nmap, DNS enumeration, zone transfers), perform secure code review and static analysis (Semgrep, SonarQube), and work with detection engineering (Wazuh SIEM, Snort IDS, custom rules), honeypot deployment and analysis (Cowrie, SNARE, Tanner), malware analysis (Ghidra, Binwalk, HexEdit, VirusTotal), and threat intelligence workflows correlating IOCs from honeypot and IDS data.
-
 Cloud & DevSecOps: Docker, Kubernetes, GitHub Actions CI/CD, Linux server management, Nginx, and cloud deployments (AWS/VPS) — approached with a security-first mindset toward infrastructure and deployment pipelines.
+
+Security: I conduct vulnerability assessments and penetration testing across web applications and network infrastructure (Nmap, DNS enumeration, zone transfers), perform secure code review and static analysis (Semgrep, SonarQube), and work with detection engineering (Wazuh SIEM, Snort IDS, custom rules), honeypot deployment and analysis (Cowrie, SNARE, Tanner), malware analysis (Ghidra, Binwalk, HexEdit, VirusTotal), and threat intelligence workflows correlating IOCs from honeypot and IDS data.
 
 AI/ML Integration: Hands-on experience integrating LLMs (LangChain), Computer Vision model inference (YOLO, TensorFlow), and orchestrating AI services within secure backend architectures.
 
