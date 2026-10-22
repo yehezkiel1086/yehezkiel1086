@@ -12,7 +12,7 @@ Security: I conduct vulnerability assessments and penetration testing across web
 
 AI/ML Integration: Hands-on experience integrating LLMs (LangChain), Computer Vision model inference (YOLO, TensorFlow), and orchestrating AI services within secure backend architectures.
 
-Currently pursuing offensive security (VAPT, exploitation, network reconnaissance), detection engineering, and secure infrastructure work, while continuing to build production backend systems. Pursuing eLearnSecurity Junior Penetration Tester (eJPT) certification.
+Currently pursuing offensive security (VAPT, exploitation, network reconnaissance), detection engineering, and secure infrastructure work, while continuing to build production backend systems. eJPT Certified Pentester.
 
 <!--
 Backend / DevSecOps Engineer specializing in production-grade experience architecting Go (Golang) microservices and distributed systems — backed by Penetration Testing, Application Security and Network Security. This dual background means I understand vulnerabilities from both sides: as an attacker probing for weaknesses, and as an engineer who has built and deployed the systems being attacked.
