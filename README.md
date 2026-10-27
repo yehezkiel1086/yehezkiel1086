@@ -1,6 +1,6 @@
 # Hey, I'm Hez!
 
-Cyber Security Specialist specializing in Penetration Testing, Application Security, Network Security, and DevSecOps. I conduct vulnerability assessments and penetration testing across web applications and network infrastructure (Nmap, DNS enumeration, zone transfers), perform secure code review and static analysis (Semgrep, SonarQube), and architect security-first infrastructure with detection engineering (IDS/IPS, SIEM, honeypot deployment) and server hardening.
+Cyber Security Specialist specializing in Penetration Testing, Application Security, Network Security, Security Engineering and DevSecOps. I conduct vulnerability assessments and penetration testing across web applications and network infrastructure (Nmap, DNS enumeration, zone transfers), perform secure code review and static analysis (Semgrep, SonarQube), and architect security-first infrastructure with detection engineering (IDS/IPS, SIEM, honeypot deployment) and server hardening.
 
 Currently focused on offensive security (VAPT, network reconnaissance, exploitation, threat detection), defensive security and detection engineering (Wazuh SIEM, Snort IDS, honeypot analysis), malware analysis, server hardening, and secure backend/infrastructure architecture. Also experienced in deploying secure AI/ML systems, threat intelligence automation, and attack pattern analysis.
 
