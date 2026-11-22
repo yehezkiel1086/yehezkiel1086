@@ -1,6 +1,20 @@
 # Hey, I'm Hez!
 
+Penetration Tester specializing in Offensive Security — web application, network, and mobile penetration testing. I conduct vulnerability assessments and exploitation across web applications and network infrastructure (manual testing with Burp Suite, Nmap, SQLMap; DNS enumeration, zone transfers; OWASP Top 10 methodology), and I bring a builder's perspective from hands-on experience architecting the backend systems being attacked — so I find vulnerabilities most testers miss and explain them with real root-cause context.
 
+Currently focused on offensive security: web, network, and mobile VAPT, network reconnaissance, exploitation, and Active Directory attack paths. I pair this with defensive and detection engineering experience (Wazuh SIEM, Snort IDS, honeypot analysis with Cowrie/SNARE/Tanner) and secure code review (Semgrep, SonarQube) — understanding both sides of an attack makes my offensive work sharper and my findings more actionable.
+
+**Offensive Security:** Web application and network penetration testing (Burp Suite, Nmap, SQLMap, Nessus, Nikto, Dirsearch, Metasploit), manual exploitation, OWASP Top 10 methodology, vulnerability assessment and reporting, mobile application security fundamentals, and growing Active Directory attack path experience.
+
+**Detection & Defense (supporting offense):** SIEM (Wazuh), IDS/IPS (Snort), honeypot deployment and analysis (Cowrie, SNARE, Tanner), secure code review and static analysis (Semgrep, SonarQube), malware analysis fundamentals (Ghidra, Binwalk, VirusTotal), and threat intelligence workflows correlating IOCs — knowing what gets detected and why makes me a better attacker.
+
+**Engineering Background (how I understand what I'm attacking):** Production Go (Golang) backend systems — microservices, distributed systems, Clean/Hexagonal Architecture, gRPC, PostgreSQL, Redis, RabbitMQ. Cloud and infrastructure: Docker, Kubernetes, Linux server management, AWS/VPS. This background is why I can read the code behind a vulnerability, not just find it black-box.
+
+**AI/ML:** Hands-on experience integrating LLMs (LangChain) and Computer Vision (YOLO, TensorFlow) — undergraduate thesis applied machine learning to web honeypot attack data, analyzing real attacker behavior patterns.
+
+eJPT & PWPA certified. PMPA & CRTA in progress.
+
+<!--
 Cyber Security Specialist specializing in Penetration Testing, Application Security, Network Security, Security Engineering and DevSecOps. I conduct vulnerability assessments and penetration testing across web applications and network infrastructure (Nmap, DNS enumeration, zone transfers), perform secure code review and static analysis (Semgrep, SonarQube), and architect security-first infrastructure with detection engineering (IDS/IPS, SIEM, honeypot deployment) and server hardening.
 
 Currently focused on offensive security (VAPT, network reconnaissance, exploitation, threat detection), defensive security and detection engineering (Wazuh SIEM, Snort IDS, honeypot analysis), malware analysis, server hardening, and secure backend/infrastructure architecture. Also experienced in deploying secure AI/ML systems, threat intelligence automation, and attack pattern analysis.
@@ -14,6 +28,7 @@ Security: I conduct vulnerability assessments and penetration testing across web
 AI/ML Integration: Hands-on experience integrating LLMs (LangChain), Computer Vision model inference (YOLO, TensorFlow), and orchestrating AI services within secure backend architectures.
 
 Currently pursuing offensive security (VAPT, exploitation, network reconnaissance), detection engineering, and secure infrastructure work, while continuing to build production backend systems. eJPT & PWPA Certified, PMPA & CRTA in progress.
+-->
 
 <!--
 Backend / DevSecOps Engineer specializing in production-grade experience architecting Go (Golang) microservices and distributed systems — backed by Penetration Testing, Application Security and Network Security. This dual background means I understand vulnerabilities from both sides: as an attacker probing for weaknesses, and as an engineer who has built and deployed the systems being attacked.
