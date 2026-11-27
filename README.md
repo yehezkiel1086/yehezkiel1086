@@ -1,6 +1,6 @@
 # Hey, I'm Hez!
 
-Penetration Tester specializing in Offensive Security — web application, network, and mobile penetration testing. I conduct vulnerability assessments and exploitation across web applications and network infrastructure (manual testing with Burp Suite, Nmap, SQLMap; DNS enumeration, zone transfers; OWASP Top 10 methodology), and I bring a builder's perspective from hands-on experience architecting the backend systems being attacked — so I find vulnerabilities most testers miss and explain them with real root-cause context.
+Penetration Tester specializing in Offensive Security — web application, network, and mobile application penetration testing. I conduct vulnerability assessments and exploitation across web applications and network infrastructure (manual testing with Burp Suite, Nmap, SQLMap; DNS enumeration, zone transfers; OWASP Top 10 methodology), and I bring a builder's perspective from hands-on experience architecting the backend systems being attacked — so I find vulnerabilities most testers miss and explain them with real root-cause context.
 
 Currently focused on offensive security: web, network, and mobile VAPT, network reconnaissance, exploitation, and Active Directory attack paths. I pair this with defensive and detection engineering experience (Wazuh SIEM, Snort IDS, honeypot analysis with Cowrie/SNARE/Tanner) and secure code review (Semgrep, SonarQube) — understanding both sides of an attack makes my offensive work sharper and my findings more actionable.
 
