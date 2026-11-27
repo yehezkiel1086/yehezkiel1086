@@ -1,6 +1,5 @@
 # Hey, I'm Hez!
 
-<!--
 Penetration Tester specializing in Offensive Security — web application, network, and mobile penetration testing. I conduct vulnerability assessments and exploitation across web applications and network infrastructure (manual testing with Burp Suite, Nmap, SQLMap; DNS enumeration, zone transfers; OWASP Top 10 methodology), and I bring a builder's perspective from hands-on experience architecting the backend systems being attacked — so I find vulnerabilities most testers miss and explain them with real root-cause context.
 
 Currently focused on offensive security: web, network, and mobile VAPT, network reconnaissance, exploitation, and Active Directory attack paths. I pair this with defensive and detection engineering experience (Wazuh SIEM, Snort IDS, honeypot analysis with Cowrie/SNARE/Tanner) and secure code review (Semgrep, SonarQube) — understanding both sides of an attack makes my offensive work sharper and my findings more actionable.
@@ -14,7 +13,6 @@ Currently focused on offensive security: web, network, and mobile VAPT, network 
 **AI/ML:** Hands-on experience integrating LLMs (LangChain) and Computer Vision (YOLO, TensorFlow) — undergraduate thesis applied machine learning to web honeypot attack data, analyzing real attacker behavior patterns.
 
 eJPT & PWPA certified. PMPA & CRTA in progress.
--->
 
 <!--
 Cyber Security Specialist specializing in Penetration Testing, Application Security, Network Security, Security Engineering and DevSecOps. I conduct vulnerability assessments and penetration testing across web applications and network infrastructure (Nmap, DNS enumeration, zone transfers), perform secure code review and static analysis (Semgrep, SonarQube), and architect security-first infrastructure with detection engineering (IDS/IPS, SIEM, honeypot deployment) and server hardening.
@@ -32,6 +30,7 @@ AI/ML Integration: Hands-on experience integrating LLMs (LangChain), Computer Vi
 Currently pursuing offensive security (VAPT, exploitation, network reconnaissance), detection engineering, and secure infrastructure work, while continuing to build production backend systems. eJPT & PWPA Certified, PMPA & CRTA in progress.
 -->
 
+<!--
 Go Backend / DevSecOps Engineer specializing in production-grade experience architecting microservices and distributed systems — backed by Penetration Testing, Application Security and Network Security. This dual background means I understand vulnerabilities from both sides: as an attacker probing for weaknesses, and as an engineer who has built and deployed the systems being attacked.
 
 Backend & Distributed Systems: I design and build production-ready APIs, microservices, and distributed systems in Go (Gin, Echo, net/http), with Clean Architecture and Hexagonal Architecture patterns. Experience with PostgreSQL, MySQL, SQL Server, and Redis for caching and rate limiting, RabbitMQ and Kafka for event-driven messaging, and gRPC (Protobuf) for service-to-service communication.
@@ -43,6 +42,7 @@ Security: I conduct vulnerability assessments and penetration testing across web
 AI/ML Integration: Hands-on experience integrating LLMs (LangChain), Computer Vision model inference (YOLO, TensorFlow), and orchestrating AI services within secure backend architectures.
 
 Currently pursuing offensive security (VAPT, exploitation, network reconnaissance), detection engineering, and secure infrastructure work, while continuing to build production backend systems. eJPT & PWPA certified, CRTA & PMPA in progress.
+-->
 
 <!-- Backend Engineer (Go) focused on building reliable, scalable backend systems. I specialize in designing/building APIs, distributed systems, microservices and production-ready systems using Go. I have hands-on experience deploying applications with Docker, Kubernetes and CI/CD workflows, and integrating AI services (ML/RAG/Computer Vision - sometimes building models) into backend architectures.
 
