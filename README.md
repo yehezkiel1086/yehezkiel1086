@@ -32,7 +32,7 @@ AI/ML Integration: Hands-on experience integrating LLMs (LangChain), Computer Vi
 Currently pursuing offensive security (VAPT, exploitation, network reconnaissance), detection engineering, and secure infrastructure work, while continuing to build production backend systems. eJPT & PWPA Certified, PMPA & CRTA in progress.
 -->
 
-Go Backend / DevSecOps Engineer specializing in production-grade experience architecting microservices and distributed systems — backed by Penetration Testing, Application Security and Network Security. This dual background means I understand vulnerabilities from both sides: as an attacker probing for weaknesses, and as an engineer who has built and deployed the systems being attacked.
+Backend / DevSecOps Engineer specializing in production-grade experience architecting microservices and distributed systems. I'm also an Offensive Security & Penetration Testing (Web App, Mobile App and Network Security) Enthusiast. This dual background means I understand vulnerabilities from both sides: as an attacker probing for weaknesses, and as an engineer who has built and deployed the systems being attacked.
 
 Backend & Distributed Systems: I design and build production-ready APIs, microservices, and distributed systems in Go (Gin, Echo, net/http), with Clean Architecture and Hexagonal Architecture patterns. Experience with PostgreSQL, MySQL, SQL Server, and Redis for caching and rate limiting, RabbitMQ and Kafka for event-driven messaging, and gRPC (Protobuf) for service-to-service communication.
 
