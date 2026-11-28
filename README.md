@@ -38,7 +38,7 @@ Backend & Distributed Systems: I design and build production-ready APIs, microse
 
 Cloud & DevSecOps: Docker, Kubernetes, GitHub Actions CI/CD, Linux server management, Nginx, and cloud deployments (AWS/VPS) — approached with a security-first mindset toward infrastructure and deployment pipelines.
 
-Security: I conduct vulnerability assessments and penetration testing across web applications and network infrastructure (Nmap, DNS enumeration, zone transfers), perform secure code review and static analysis (Semgrep, SonarQube), and work with detection engineering (Wazuh SIEM, Snort IDS, custom rules), honeypot deployment and analysis (Cowrie, SNARE, Tanner), malware analysis (Ghidra, Binwalk, HexEdit, VirusTotal), and threat intelligence workflows correlating IOCs from honeypot and IDS data.
+Security: I conduct vulnerability assessments and penetration testing across web applications, mobile applications and network infrastructure (Nmap, DNS enumeration, zone transfers), perform secure code review and static analysis (Semgrep, SonarQube), and work with detection engineering (Wazuh SIEM, Snort IDS, custom rules), honeypot deployment and analysis (Cowrie, SNARE, Tanner), malware analysis (Ghidra, Binwalk, HexEdit, VirusTotal), and threat intelligence workflows correlating IOCs from honeypot and IDS data.
 
 AI/ML Integration: Hands-on experience integrating LLMs (LangChain), Computer Vision model inference (YOLO, TensorFlow), and orchestrating AI services within secure backend architectures.
 
